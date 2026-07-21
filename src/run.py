@@ -99,8 +99,11 @@ def run_once(args, config):
 
     state['positions'] = next_positions
     state['initialized'] = True
-    save_state(state, args.state_file) if args.state_file else save_state(state)
-    print(f'[done] checked {len(candidates)} featured mod(s); posted {posted}, skipped {skipped}')
+    if next_positions != previous_positions:
+        save_state(state, args.state_file) if args.state_file else save_state(state)
+        print(f'[done] checked {len(candidates)} featured mod(s); posted {posted}, skipped {skipped} (state updated)')
+    else:
+        print(f'[done] checked {len(candidates)} featured mod(s); posted {posted}, skipped {skipped} (no changes)')
 
 
 def main():
