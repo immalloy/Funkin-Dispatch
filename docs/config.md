@@ -20,6 +20,16 @@ Available values:
 - `year`
 - `alltime`
 
+## max per period
+
+```json
+"max_per_period": 3
+```
+
+How many entries to use from each GameBanana period. The API currently returns
+three entries per period; keeping this configurable allows that limit to
+change without changing the code.
+
 ## announcement types
 
 ```json
@@ -43,7 +53,7 @@ When `false`, the first run records current positions without posting them. Set 
 ## interval
 
 ```json
-"interval_hours": 2
+"interval_hours": 1
 ```
 
 The delay between checks when using `--loop`. The command-line option `--interval-hours` overrides this value.

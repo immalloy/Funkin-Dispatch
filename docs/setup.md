@@ -9,7 +9,7 @@
 5. Open the **Actions** tab and enable workflows if GitHub asks.
 6. Run **Funkin Dispatch** manually once to test it.
 
-The scheduled workflow checks every 2 hours and commits the position snapshot back to `state.json`. Scheduled workflows are commonly disabled when a public repository is forked, so the fork owner must enable Actions before automatic checks begin.
+The scheduled workflow checks every hour and commits the position snapshot back to `state.json`. Scheduled workflows are commonly disabled when a public repository is forked, so the fork owner must enable Actions before automatic checks begin.
 
 The workflow needs repository write permission to save `state.json`. Do not run the GitHub workflow and a self-hosted copy against the same webhook at the same time.
 
@@ -25,7 +25,7 @@ $env:DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/...'
 python src/run.py --loop
 ```
 
-Dispatch runs immediately, then checks every 2 hours. Use `--interval-hours 1` to change the interval. Keep it running with Task Scheduler on Windows or `systemd` on Linux.
+Dispatch runs immediately, then checks every hour. Use `--interval-hours` to change the interval. Keep it running with Task Scheduler on Windows or `systemd` on Linux.
 
 ## one-time testing
 

@@ -2,7 +2,7 @@
 
 ![banner](assets/banner.png)
 
-Announces newly featured Friday Night Funkin' mods in a Discord channel. It checks GameBanana every 2 hours, posts each new or moved mod separately, and remembers current positions so unchanged mods are not reposted.
+Announces newly featured Friday Night Funkin' mods in a Discord channel. It checks GameBanana every hour, posts each new or moved mod separately, and remembers current positions so unchanged mods are not reposted.
 
 Dispatch is the announcement companion to [Funkin Hotline](https://github.com/immalloy/Funkin-Hotline). Hotline maintains one editable ranking message per period; Dispatch sends separate posts when a mod is new or changes position.
 

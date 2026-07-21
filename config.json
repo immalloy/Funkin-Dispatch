@@ -1,8 +1,9 @@
 {
   "game_id": 8694,
-  "interval_hours": 2,
+  "interval_hours": 1,
+  "max_per_period": 3,
   "webhook_username": "Funkin Dispatch",
-  "announce_existing_on_first_run": false,
+  "announce_existing_on_first_run": true,
   "announce_new_mods": true,
   "announce_rank_changes": true,
   "announce_period_changes": true,

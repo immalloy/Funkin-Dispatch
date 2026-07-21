@@ -26,6 +26,9 @@ def fetch_featured_mods(config):
         items = json.loads(response.read())
 
     periods = config.get('periods', ['today'])
+    max_per_period = config.get('max_per_period', 3)
+    if not isinstance(max_per_period, int) or isinstance(max_per_period, bool) or max_per_period < 1:
+        raise ValueError('max_per_period must be a positive integer')
     blacklist = [term.casefold() for term in config.get('blacklist', [])]
     show_flagged = config.get('show_flagged_content', False)
     results = []
@@ -39,14 +42,16 @@ def fetch_featured_mods(config):
             if not show_flagged and mod.get('_sInitialVisibility') != 'show':
                 continue
             name = (mod.get('_sName') or '').casefold()
-            author = (mod.get('_aSubmitter', {}).get('_sName') or '').casefold()
+            author = ((mod.get('_aSubmitter') or {}).get('_sName') or '').casefold()
             if any(term in name or term in author for term in blacklist):
                 continue
-            rank += 1
             mod_id = str(mod.get('_idRow', ''))
             if not mod_id or mod_id in seen:
                 continue
             seen.add(mod_id)
+            rank += 1
             results.append((period, rank, mod))
+            if rank >= max_per_period:
+                break
 
     return results

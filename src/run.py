@@ -56,7 +56,17 @@ def run_once(args, config):
     next_positions = {}
     posted = 0
     skipped = 0
-    for period, rank, mod in candidates:
+    # Post the longest period first and the daily period last. Reverse the
+    # ranking order within each period so the lowest rank is posted first.
+    posting_order = {
+        period: index for index, period in enumerate(config.get('periods', []))
+    }
+    posting_candidates = sorted(
+        candidates,
+        key=lambda candidate: (posting_order.get(candidate[0], -1), candidate[1]),
+        reverse=True,
+    )
+    for period, rank, mod in posting_candidates:
         mod_id = str(mod['_idRow'])
         previous = previous_positions.get(mod_id)
         if not previous:
@@ -96,7 +106,7 @@ def run_once(args, config):
 def main():
     args = parse_args()
     config = load_config()
-    interval = args.interval_hours or config.get('interval_hours', 2)
+    interval = args.interval_hours or config.get('interval_hours', 1)
     if interval <= 0:
         raise ValueError('interval must be greater than zero')
     if not args.loop:
