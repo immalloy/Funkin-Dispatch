@@ -62,27 +62,27 @@
       "period": "month",
       "rank": 1
     },
-    "695985": {
-      "period": "week",
-      "rank": 3
-    },
     "676933": {
       "period": "week",
-      "rank": 2
+      "rank": 3
     },
     "697429": {
       "period": "week",
-      "rank": 1
-    },
-    "697878": {
-      "period": "today",
-      "rank": 3
-    },
-    "697829": {
-      "period": "today",
       "rank": 2
     },
     "697654": {
+      "period": "week",
+      "rank": 1
+    },
+    "697790": {
+      "period": "today",
+      "rank": 3
+    },
+    "697878": {
+      "period": "today",
+      "rank": 2
+    },
+    "697829": {
       "period": "today",
       "rank": 1
     }
