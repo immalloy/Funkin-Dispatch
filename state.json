@@ -18,23 +18,23 @@
       "period": "year",
       "rank": 3
     },
-    "655019": {
-      "period": "year",
-      "rank": 2
-    },
     "632935": {
       "period": "year",
-      "rank": 1
-    },
-    "653229": {
-      "period": "6month",
-      "rank": 3
-    },
-    "652786": {
-      "period": "6month",
       "rank": 2
     },
     "650004": {
+      "period": "year",
+      "rank": 1
+    },
+    "655019": {
+      "period": "6month",
+      "rank": 3
+    },
+    "653229": {
+      "period": "6month",
+      "rank": 2
+    },
+    "652786": {
       "period": "6month",
       "rank": 1
     },
