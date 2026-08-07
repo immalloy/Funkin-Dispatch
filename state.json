@@ -62,7 +62,7 @@
       "period": "month",
       "rank": 1
     },
-    "690584": {
+    "700584": {
       "period": "week",
       "rank": 3
     },
@@ -74,15 +74,11 @@
       "period": "week",
       "rank": 1
     },
-    "701197": {
-      "period": "today",
-      "rank": 3
-    },
-    "701319": {
+    "701247": {
       "period": "today",
       "rank": 2
     },
-    "701184": {
+    "701319": {
       "period": "today",
       "rank": 1
     }
