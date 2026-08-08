@@ -55,6 +55,24 @@ func TestEventColorsAndEmbedContent(t *testing.T) {
 	}
 }
 
+func TestEmbedUsesGameBananaPreviewImage(t *testing.T) {
+	mod := map[string]interface{}{
+		"_idRow": json.Number("42"),
+		"_sName": "Cool Mod",
+		"_aPreviewContent": map[string]interface{}{
+			"screenshot": map[string]interface{}{
+				"_sBaseUrl": "https://images.gamebanana.com/img/ss/mods/",
+				"_sFile":    "preview.webp",
+			},
+		},
+	}
+	embed := buildEmbed("today", 1, mod, nil, false, time.Unix(0, 0))
+	image, ok := embed["image"].(map[string]interface{})
+	if !ok || image["url"] != "https://images.gamebanana.com/img/ss/mods/preview.webp" {
+		t.Fatalf("unexpected embed image: %#v", embed["image"])
+	}
+}
+
 func TestStateRoundTripPreservesOldSeenMods(t *testing.T) {
 	temporary := t.TempDir() + "/state.json"
 	original := State{

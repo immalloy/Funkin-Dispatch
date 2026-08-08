@@ -303,7 +303,7 @@ func buildEmbed(period string, rank int, mod map[string]interface{}, previous *P
 		author = "Unknown creator"
 	}
 	authorURL := stringValue(submitter["_sProfileUrl"])
-	imageURL := stringValue(mod["_sImageUrl"])
+	imageURL := previewImageURL(mod)
 	kind := classifyEvent(period, previous, departed)
 	description := ""
 	if departed {
@@ -332,6 +332,20 @@ func buildEmbed(period string, rank int, mod map[string]interface{}, previous *P
 		}
 	}
 	return embed
+}
+
+func previewImageURL(mod map[string]interface{}) string {
+	if imageURL := stringValue(mod["_sImageUrl"]); imageURL != "" {
+		return imageURL
+	}
+	previewContent, _ := mod["_aPreviewContent"].(map[string]interface{})
+	screenshot, _ := previewContent["screenshot"].(map[string]interface{})
+	baseURL := strings.TrimRight(stringValue(screenshot["_sBaseUrl"]), "/")
+	file := strings.TrimLeft(stringValue(screenshot["_sFile"]), "/")
+	if baseURL == "" || file == "" {
+		return ""
+	}
+	return baseURL + "/" + file
 }
 
 func webhookBase() (string, error) {
