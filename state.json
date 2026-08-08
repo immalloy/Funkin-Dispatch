@@ -1,1 +1,90 @@
-﻿{}
+{
+  "version": 1,
+  "initialized": true,
+  "positions": {
+    "166531": {
+      "period": "alltime",
+      "rank": 3
+    },
+    "309789": {
+      "period": "alltime",
+      "rank": 2
+    },
+    "44334": {
+      "period": "alltime",
+      "rank": 1
+    },
+    "614094": {
+      "period": "year",
+      "rank": 3
+    },
+    "614615": {
+      "period": "3month",
+      "rank": 3
+    },
+    "632935": {
+      "period": "year",
+      "rank": 2
+    },
+    "650004": {
+      "period": "year",
+      "rank": 1
+    },
+    "652786": {
+      "period": "6month",
+      "rank": 1
+    },
+    "653229": {
+      "period": "6month",
+      "rank": 2
+    },
+    "655019": {
+      "period": "6month",
+      "rank": 3
+    },
+    "665295": {
+      "period": "3month",
+      "rank": 2
+    },
+    "683489": {
+      "period": "3month",
+      "rank": 1
+    },
+    "694404": {
+      "period": "month",
+      "rank": 2
+    },
+    "696957": {
+      "period": "month",
+      "rank": 1
+    },
+    "697654": {
+      "period": "month",
+      "rank": 3
+    },
+    "700138": {
+      "period": "week",
+      "rank": 2
+    },
+    "700143": {
+      "period": "week",
+      "rank": 1
+    },
+    "700584": {
+      "period": "week",
+      "rank": 3
+    },
+    "701594": {
+      "period": "today",
+      "rank": 2
+    },
+    "701651": {
+      "period": "today",
+      "rank": 3
+    },
+    "701666": {
+      "period": "today",
+      "rank": 1
+    }
+  }
+}
