@@ -78,13 +78,13 @@
       "period": "week",
       "rank": 3
     },
-    "701741": {
-      "period": "today",
-      "rank": 3
-    },
     "701850": {
       "period": "today",
       "rank": 1
+    },
+    "701983": {
+      "period": "today",
+      "rank": 3
     }
   }
 }
