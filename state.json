@@ -6,6 +6,10 @@
       "period": "alltime",
       "rank": 3
     },
+    "23697": {
+      "period": "today",
+      "rank": 3
+    },
     "309789": {
       "period": "alltime",
       "rank": 2
@@ -74,17 +78,13 @@
       "period": "week",
       "rank": 3
     },
-    "701651": {
+    "701666": {
       "period": "today",
       "rank": 1
     },
-    "701666": {
-      "period": "today",
-      "rank": 2
-    },
     "701850": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   }
 }
