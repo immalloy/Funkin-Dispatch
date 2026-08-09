@@ -103,7 +103,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 4405452,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/68dc7bbe303e7.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a62cec483373.png",
@@ -591,7 +591,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1955738,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69f2cbe596a9d.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/69f2cbe91519f.png",
@@ -721,7 +721,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 4664426,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a54ff14316e7.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a55007e5a5a8.png",
@@ -754,7 +754,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 2064303,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a35b64eb733c.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/69126ec3c749a.gif",
