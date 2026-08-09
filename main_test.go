@@ -73,12 +73,29 @@ func TestEmbedUsesGameBananaPreviewImage(t *testing.T) {
 	}
 }
 
+func TestDepartedEmbedUsesStoredModDetails(t *testing.T) {
+	mod := map[string]interface{}{
+		"_idRow": json.Number("701741"), "_sName": "PLAYABLE Vivian",
+		"_sProfileUrl": "https://gamebanana.com/mods/701741",
+		"_sImageUrl":   "https://images.gamebanana.com/vivian.webp",
+		"_aSubmitter":  map[string]interface{}{"_sName": "linux9k"},
+	}
+	embed := buildEmbed("", 0, mod, &Position{Period: "today", Rank: 3}, true, time.Unix(0, 0))
+	if embed["title"] != "PLAYABLE Vivian" || embed["url"] != "https://gamebanana.com/mods/701741" {
+		t.Fatalf("departed embed lost mod details: %#v", embed)
+	}
+	if _, ok := embed["thumbnail"]; !ok {
+		t.Fatalf("departed embed should use a thumbnail: %#v", embed)
+	}
+}
+
 func TestStateRoundTripPreservesOldSeenMods(t *testing.T) {
 	temporary := t.TempDir() + "/state.json"
 	original := State{
 		Version: 1, Initialized: true,
-		Positions: map[string]Position{"42": {Period: "today", Rank: 1}},
-		SeenMods:  map[string]interface{}{"7": true},
+		Positions:  map[string]Position{"42": {Period: "today", Rank: 1}},
+		ModDetails: map[string]map[string]interface{}{"42": {"_sName": "Cool Mod"}},
+		SeenMods:   map[string]interface{}{"7": true},
 	}
 	if err := saveState(original, temporary); err != nil {
 		t.Fatal(err)
@@ -87,7 +104,7 @@ func TestStateRoundTripPreservesOldSeenMods(t *testing.T) {
 	if err != nil {
 		t.Fatal(err)
 	}
-	if loaded.Positions["42"] != original.Positions["42"] || loaded.SeenMods["7"] != true {
+	if loaded.Positions["42"] != original.Positions["42"] || loaded.ModDetails["42"]["_sName"] != "Cool Mod" || loaded.SeenMods["7"] != true {
 		t.Fatalf("state did not round-trip: %#v", loaded)
 	}
 }

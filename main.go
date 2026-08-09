@@ -47,10 +47,11 @@ type Position struct {
 }
 
 type State struct {
-	Version     int                    `json:"version"`
-	Initialized bool                   `json:"initialized"`
-	Positions   map[string]Position    `json:"positions"`
-	SeenMods    map[string]interface{} `json:"seen_mods,omitempty"`
+	Version     int                               `json:"version"`
+	Initialized bool                              `json:"initialized"`
+	Positions   map[string]Position               `json:"positions"`
+	ModDetails  map[string]map[string]interface{} `json:"mod_details,omitempty"`
+	SeenMods    map[string]interface{}            `json:"seen_mods,omitempty"`
 }
 
 type Candidate struct {
@@ -95,7 +96,7 @@ func loadConfig(path string) (Config, error) {
 }
 
 func loadState(path string) (State, error) {
-	state := State{Version: 1, Positions: map[string]Position{}}
+	state := State{Version: 1, Positions: map[string]Position{}, ModDetails: map[string]map[string]interface{}{}}
 	data, err := os.ReadFile(path)
 	if errors.Is(err, os.ErrNotExist) {
 		return state, nil
@@ -112,6 +113,9 @@ func loadState(path string) (State, error) {
 	}
 	if state.Positions == nil {
 		state.Positions = map[string]Position{}
+	}
+	if state.ModDetails == nil {
+		state.ModDetails = map[string]map[string]interface{}{}
 	}
 	return state, nil
 }
@@ -325,10 +329,10 @@ func buildEmbed(period string, rank int, mod map[string]interface{}, previous *P
 		"timestamp": now.UTC().Format(time.RFC3339),
 	}
 	if imageURL != "" {
-		if previous != nil && previous.Period == period {
-			embed["thumbnail"] = map[string]interface{}{"url": imageURL}
-		} else {
+		if kind == eventNew {
 			embed["image"] = map[string]interface{}{"url": imageURL}
+		} else {
+			embed["thumbnail"] = map[string]interface{}{"url": imageURL}
 		}
 	}
 	return embed
@@ -419,21 +423,32 @@ func runOnce(args Args, config Config) error {
 	}
 	fmt.Printf("[ok] fetched %d featured mod(s) across %d period(s)\n", len(candidates), len(config.Periods))
 	previousPositions := state.Positions
+	if state.ModDetails == nil {
+		state.ModDetails = map[string]map[string]interface{}{}
+	}
 	currentPositions := make(map[string]Position, len(candidates))
 	for _, candidate := range candidates {
-		currentPositions[stringValue(candidate.Mod["_idRow"])] = Position{Period: candidate.Period, Rank: candidate.Rank}
+		id := stringValue(candidate.Mod["_idRow"])
+		currentPositions[id] = Position{Period: candidate.Period, Rank: candidate.Rank}
+		state.ModDetails[id] = candidate.Mod
 	}
 	departed := make([]struct {
 		id       string
 		previous Position
+		mod      map[string]interface{}
 	}, 0)
 	for id, previous := range previousPositions {
 		if state.Initialized {
 			if _, ok := currentPositions[id]; !ok {
+				mod := state.ModDetails[id]
+				if mod == nil {
+					mod = map[string]interface{}{"_idRow": id}
+				}
 				departed = append(departed, struct {
 					id       string
 					previous Position
-				}{id: id, previous: previous})
+					mod      map[string]interface{}
+				}{id: id, previous: previous, mod: mod})
 			}
 		}
 	}
@@ -477,12 +492,12 @@ func runOnce(args Args, config Config) error {
 	nextPositions := map[string]Position{}
 	posted, skipped := 0, 0
 	for _, item := range departed {
-		mod := map[string]interface{}{"_idRow": item.id}
-		if err := postMod("", 0, mod, config, &item.previous, true); err != nil {
+		if err := postMod("", 0, item.mod, config, &item.previous, true); err != nil {
 			nextPositions[item.id] = item.previous
 			fmt.Printf("[warn] failed to announce Mod %s leaving the featured feed: %v\n", item.id, err)
 			continue
 		}
+		delete(state.ModDetails, item.id)
 		fmt.Printf("[ok] announced Mod %s left the featured feed\n", item.id)
 		posted++
 	}
@@ -535,10 +550,10 @@ func runOnce(args Args, config Config) error {
 	}
 	state.Positions = nextPositions
 	state.Initialized = true
+	if err := saveState(state, statePath); err != nil {
+		return err
+	}
 	if !mapsEqual(nextPositions, previousPositions) {
-		if err := saveState(state, statePath); err != nil {
-			return err
-		}
 		fmt.Printf("[done] checked %d featured mod(s); posted %d, skipped %d (state updated)\n", len(candidates), posted, skipped)
 	} else {
 		fmt.Printf("[done] checked %d featured mod(s); posted %d, skipped %d (no changes)\n", len(candidates), posted, skipped)
