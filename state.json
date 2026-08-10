@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "102852": {
-      "period": "today",
-      "rank": 2
-    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -78,48 +74,20 @@
       "period": "week",
       "rank": 3
     },
-    "702084": {
+    "702270": {
       "period": "today",
       "rank": 3
     },
     "702283": {
       "period": "today",
       "rank": 1
+    },
+    "702352": {
+      "period": "today",
+      "rank": 2
     }
   },
   "mod_details": {
-    "102852": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6a783ff00630e_800.webp",
-          "_sFile220": "sgi_feature_image_6a783ff00630e_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/6031cfdf962b7.png",
-        "_sName": "Other/Misc",
-        "_sProfileUrl": "https://gamebanana.com/wips/cats/888"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 4405452,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68dc7bbe303e7.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a62cec483373.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/4405452",
-        "_sName": "Edwin RCC",
-        "_sProfileUrl": "https://gamebanana.com/members/4405452",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/69fe9206e4626.png"
-      },
-      "_idRow": 102852,
-      "_nLikeCount": 8,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Wip",
-      "_sName": "Shadeinator Rework + Rewrite (CNE Addon)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/102852"
-    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -372,7 +340,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1910036"
       },
       "_idRow": 652786,
-      "_nLikeCount": 532,
+      "_nLikeCount": 533,
       "_nPostCount": 250,
       "_sDescription": "Think you've got what it takes?",
       "_sInitialVisibility": "show",
@@ -600,7 +568,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1955738"
       },
       "_idRow": 697654,
-      "_nLikeCount": 117,
+      "_nLikeCount": 118,
       "_nPostCount": 32,
       "_sDescription": "a Beautiful day in Autumn",
       "_sInitialVisibility": "show",
@@ -706,12 +674,12 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/700584"
     },
-    "702084": {
+    "702270": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a783f1f0d5e4_800.webp",
-          "_sFile220": "sgi_feature_image_6a783f1f0d5e4_220.webp"
+          "_sFile": "sgi_feature_image_6a78bb47cb232_800.webp",
+          "_sFile220": "sgi_feature_image_6a78bb47cb232_220.webp"
         }
       },
       "_aRootCategory": {
@@ -722,21 +690,21 @@
       "_aSubmitter": {
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 1956153,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6563fa21624e3.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/65a8d84083870.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1956153",
-        "_sName": "Fidgety attic",
-        "_sProfileUrl": "https://gamebanana.com/members/1956153"
+        "_idRow": 4603595,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a78f97852d6c.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4603595",
+        "_sName": "BRENININ",
+        "_sProfileUrl": "https://gamebanana.com/members/4603595"
       },
-      "_idRow": 702084,
-      "_nLikeCount": 6,
-      "_nPostCount": 2,
+      "_idRow": 702270,
+      "_nLikeCount": 3,
+      "_nPostCount": 5,
+      "_sDescription": "NEW ICONS FREEPLAY SPOOKY MIX",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "FNF OC Showdown V1",
+      "_sName": "(V-Slice) New Icons Freeplay: FNF Spooky Mix",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/702084"
+      "_sProfileUrl": "https://gamebanana.com/mods/702270"
     },
     "702283": {
       "_aPreviewContent": {
@@ -761,7 +729,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2615258"
       },
       "_idRow": 702283,
-      "_nLikeCount": 33,
+      "_nLikeCount": 34,
       "_nPostCount": 23,
       "_sDescription": "A unique JRPG adventure... with rappers...?",
       "_sInitialVisibility": "show",
@@ -769,6 +737,38 @@
       "_sName": "Undertale: Funk Mode [CANCELLED?]",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/702283"
+    },
+    "702352": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a790070afe59_800.webp",
+          "_sFile220": "sgi_feature_image_6a790070afe59_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1770413,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6923b29c825af.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1770413",
+        "_sName": "Floofum",
+        "_sProfileUrl": "https://gamebanana.com/members/1770413"
+      },
+      "_idRow": 702352,
+      "_nLikeCount": 16,
+      "_nPostCount": 22,
+      "_sDescription": "I found something..",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Cap'n Clark's Musical Empire! (Backrooms ONESHOT)",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/702352"
     }
   }
 }
