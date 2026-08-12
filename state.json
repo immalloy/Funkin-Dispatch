@@ -2,6 +2,10 @@
   "version": 1,
   "initialized": true,
   "positions": {
+    "13319": {
+      "period": "today",
+      "rank": 3
+    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -78,16 +82,56 @@
       "period": "today",
       "rank": 1
     },
-    "703100": {
-      "period": "today",
-      "rank": 3
-    },
     "703118": {
       "period": "today",
       "rank": 2
     }
   },
   "mod_details": {
+    "13319": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_hFile": 350,
+          "_hFile220": 171,
+          "_sBaseUrl": "https://images.gamebanana.com/static/img/DefaultEmbeddables",
+          "_sFile": "Script.jpg",
+          "_sFile220": "Script_220.jpg"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ScriptCategory/669286a904202.png",
+        "_sName": "Lua",
+        "_sProfileUrl": "https://gamebanana.com/scripts/cats/2828"
+      },
+      "_aSubmitter": {
+        "_aSubjectShaper": {
+          "_sBorderColor": "#ffffff",
+          "_sBorderStyle": "Drop Glow",
+          "_sFont": "Trebuchet MS",
+          "_sTextColor": "#ffffff",
+          "_sTextHoverColor": "#FFFFFF"
+        },
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 3512039,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69f9286d86363.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a5926866c5e8.jpg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/scripts/3512039",
+        "_sName": "kirito_kazuto",
+        "_sProfileUrl": "https://gamebanana.com/members/3512039",
+        "_sSubjectShaperCssCode": "font-family:'Trebuchet MS';color:#ffffff;",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/69fb7c154a5cd.png"
+      },
+      "_idRow": 13319,
+      "_nLikeCount": 3,
+      "_nPostCount": 1,
+      "_sDescription": "More difficulty ratings script",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Script",
+      "_sName": "Set Rating Windows",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/scripts/13319"
+    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -535,7 +579,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 413,
+      "_nLikeCount": 414,
       "_nPostCount": 320,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -705,38 +749,6 @@
       "_sName": "[V-Slice] Transparent Window Script",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/703001"
-    },
-    "703100": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a7b9b4ea389f_800.webp",
-          "_sFile220": "sgi_feature_image_6a7b9b4ea389f_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2584105,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69566e571ab2d.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/69566e853a6d1.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2584105",
-        "_sName": "MIDISIDI",
-        "_sProfileUrl": "https://gamebanana.com/members/2584105"
-      },
-      "_idRow": 703100,
-      "_nLikeCount": 2,
-      "_sDescription": "Vs. Creepy Mouse Canned Build",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "FNF: Broken Melodies Canned Build",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/703100"
     },
     "703118": {
       "_aPreviewContent": {
