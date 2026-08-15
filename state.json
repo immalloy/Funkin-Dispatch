@@ -136,7 +136,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 2049729,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a7f7f685d727.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/tools/2049729",
@@ -150,7 +150,7 @@
       "_sDescription": "yet another launcher for fnf",
       "_sInitialVisibility": "show",
       "_sModelName": "Tool",
-      "_sName": "Solar Launcher",
+      "_sName": "Solar Launcher (updated, yuh!)",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/tools/23770"
     },
@@ -774,7 +774,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/5355384"
       },
       "_idRow": 704136,
-      "_nLikeCount": 24,
+      "_nLikeCount": 25,
       "_nPostCount": 8,
       "_sDescription": "sma sma sma sma",
       "_sInitialVisibility": "show",
