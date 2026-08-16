@@ -76,15 +76,15 @@
     },
     "704518": {
       "period": "today",
-      "rank": 1
+      "rank": 2
     },
     "704879": {
       "period": "today",
-      "rank": 3
+      "rank": 1
     },
     "704889": {
       "period": "today",
-      "rank": 2
+      "rank": 3
     }
   },
   "mod_details": {
@@ -732,7 +732,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3204924"
       },
       "_idRow": 704879,
-      "_nLikeCount": 12,
+      "_nLikeCount": 16,
       "_nPostCount": 5,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -763,7 +763,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3204924"
       },
       "_idRow": 704889,
-      "_nLikeCount": 11,
+      "_nLikeCount": 13,
       "_nPostCount": 2,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
