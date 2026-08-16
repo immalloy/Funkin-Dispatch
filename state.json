@@ -74,10 +74,6 @@
       "period": "week",
       "rank": 2
     },
-    "704683": {
-      "period": "today",
-      "rank": 3
-    },
     "704879": {
       "period": "today",
       "rank": 1
@@ -85,6 +81,10 @@
     "704889": {
       "period": "today",
       "rank": 2
+    },
+    "705198": {
+      "period": "today",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -656,7 +656,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 2174614,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a7bf0eba8484.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a7bf0f2bf3fa.png",
@@ -674,38 +674,6 @@
       "_sName": "SCP: Project Funkin'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/702396"
-    },
-    "704683": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a8096b8108c6_800.webp",
-          "_sFile220": "sgi_feature_image_6a8096b8108c6_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3318971,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/661f17435318c.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3318971",
-        "_sName": "LexyDoesStuff",
-        "_sProfileUrl": "https://gamebanana.com/members/3318971"
-      },
-      "_idRow": 704683,
-      "_nLikeCount": 9,
-      "_nPostCount": 4,
-      "_sDescription": "\"Some things, are best left forgotten.\"",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "FNF:Treasure For Fun ((DEMO))",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/704683"
     },
     "704879": {
       "_aPreviewContent": {
@@ -768,6 +736,39 @@
       "_sName": "Terminal funkin demo",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/704889"
+    },
+    "705198": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a81e6a7c3f5f_800.webp",
+          "_sFile220": "sgi_feature_image_6a81e6a7c3f5f_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": true,
+        "_idRow": 1998413,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68ad9296bb26d.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1998413",
+        "_sName": "naisonji_gazirovkin",
+        "_sProfileUrl": "https://gamebanana.com/members/1998413",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/68ad95f4dc24a.png"
+      },
+      "_idRow": 705198,
+      "_nLikeCount": 15,
+      "_nPostCount": 12,
+      "_sDescription": "This time definitely playable and definitely perfect",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "PLAYABLE BOYFRIEND 2",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/705198"
     }
   }
 }
