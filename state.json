@@ -701,7 +701,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 2174614,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a7bf0eba8484.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a7bf0f2bf3fa.png",
@@ -743,7 +743,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3204924"
       },
       "_idRow": 704879,
-      "_nLikeCount": 8,
+      "_nLikeCount": 10,
       "_nPostCount": 3,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -774,7 +774,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3204924"
       },
       "_idRow": 704889,
-      "_nLikeCount": 8,
+      "_nLikeCount": 9,
       "_nPostCount": 1,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
