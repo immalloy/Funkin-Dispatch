@@ -64,27 +64,27 @@
     },
     "702396": {
       "period": "week",
-      "rank": 1
-    },
-    "703563": {
-      "period": "week",
-      "rank": 3
+      "rank": 2
     },
     "704136": {
       "period": "week",
-      "rank": 2
+      "rank": 3
     },
     "705198": {
-      "period": "today",
+      "period": "week",
       "rank": 1
     },
     "705265": {
       "period": "today",
-      "rank": 2
+      "rank": 1
+    },
+    "705436": {
+      "period": "today",
+      "rank": 3
     },
     "705439": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
@@ -610,38 +610,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/702396"
     },
-    "703563": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a7d3fbf299e4_800.webp",
-          "_sFile220": "sgi_feature_image_6a7d3fbf299e4_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 4042486,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/676ec7ca96a6f.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4042486",
-        "_sName": "sans.data.win",
-        "_sProfileUrl": "https://gamebanana.com/members/4042486"
-      },
-      "_idRow": 703563,
-      "_nLikeCount": 29,
-      "_nPostCount": 21,
-      "_sDescription": "This is ogrinal creepy spongebob mod!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Funk Forgotten Night[Demo 1 OUT NOW!]",
-      "_sPeriod": "week",
-      "_sProfileUrl": "https://gamebanana.com/mods/703563"
-    },
     "704136": {
       "_aPreviewContent": {
         "screenshot": {
@@ -699,12 +667,12 @@
       },
       "_idRow": 705198,
       "_nLikeCount": 64,
-      "_nPostCount": 58,
+      "_nPostCount": 59,
       "_sDescription": "This time definitely playable and definitely perfect",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "PLAYABLE BOYFRIEND 2",
-      "_sPeriod": "today",
+      "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
     },
     "705265": {
@@ -730,14 +698,46 @@
         "_sProfileUrl": "https://gamebanana.com/members/4914082"
       },
       "_idRow": 705265,
-      "_nLikeCount": 19,
-      "_nPostCount": 17,
+      "_nLikeCount": 20,
+      "_nPostCount": 18,
       "_sDescription": "View the speaker character's chart!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Visible Speaker Strumlines",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/705265"
+    },
+    "705436": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a826f6eb24af_800.webp",
+          "_sFile220": "sgi_feature_image_6a826f6eb24af_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2689175,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/665d1cd54130e.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2689175",
+        "_sName": "Niceboy214",
+        "_sProfileUrl": "https://gamebanana.com/members/2689175"
+      },
+      "_idRow": 705436,
+      "_nLikeCount": 3,
+      "_nPostCount": 1,
+      "_sDescription": "Are you ready for another round?",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "TOO SLOW 2026 - PLAYABLE",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/705436"
     },
     "705439": {
       "_aPreviewContent": {
@@ -762,7 +762,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1840965"
       },
       "_idRow": 705439,
-      "_nLikeCount": 6,
+      "_nLikeCount": 7,
       "_nPostCount": 3,
       "_sDescription": "Her Sunset: First Movement.",
       "_sInitialVisibility": "show",
