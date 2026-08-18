@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "103074": {
-      "period": "today",
-      "rank": 3
-    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -74,52 +70,24 @@
       "period": "week",
       "rank": 2
     },
-    "704759": {
-      "period": "today",
-      "rank": 2
-    },
     "705198": {
       "period": "week",
       "rank": 1
     },
+    "705764": {
+      "period": "today",
+      "rank": 2
+    },
     "705782": {
+      "period": "today",
+      "rank": 3
+    },
+    "705881": {
       "period": "today",
       "rank": 1
     }
   },
   "mod_details": {
-    "103074": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6a83b4aa92bbb_800.webp",
-          "_sFile220": "sgi_feature_image_6a83b4aa92bbb_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/69cbe2d482ff9.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": true,
-        "_idRow": 5508514,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a31974bf3193.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/5508514",
-        "_sName": "mitiwolf",
-        "_sProfileUrl": "https://gamebanana.com/members/5508514"
-      },
-      "_idRow": 103074,
-      "_nLikeCount": 6,
-      "_nPostCount": 6,
-      "_sDescription": "OH YEAH, NEWS!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Wip",
-      "_sName": "Red Impostor mixes updates",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/103074"
-    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -672,38 +640,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/704136"
     },
-    "704759": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a80bf9f8b11d_800.webp",
-          "_sFile220": "sgi_feature_image_6a80bf9f8b11d_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3574043,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6696bc86d1127.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3574043",
-        "_sName": "Ledonic",
-        "_sProfileUrl": "https://gamebanana.com/members/3574043"
-      },
-      "_idRow": 704759,
-      "_nLikeCount": 6,
-      "_nPostCount": 3,
-      "_sDescription": "A port of the fanmade remake of Hazy River",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Hazier River (DEMO) Psych Port",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/704759"
-    },
     "705198": {
       "_aPreviewContent": {
         "screenshot": {
@@ -737,6 +673,37 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
     },
+    "705764": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a837e8d2c1ef_800.webp",
+          "_sFile220": "sgi_feature_image_6a837e8d2c1ef_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5575084,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5575084",
+        "_sName": "Repile2",
+        "_sProfileUrl": "https://gamebanana.com/members/5575084"
+      },
+      "_idRow": 705764,
+      "_nLikeCount": 5,
+      "_nPostCount": 4,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Animania! BF [V-Slice Port]",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/705764"
+    },
     "705782": {
       "_aPreviewContent": {
         "screenshot": {
@@ -752,7 +719,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1943828,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8325a87152a.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1943828",
@@ -760,13 +727,44 @@
         "_sProfileUrl": "https://gamebanana.com/members/1943828"
       },
       "_idRow": 705782,
-      "_nLikeCount": 10,
+      "_nLikeCount": 11,
       "_sDescription": "A short silly oc mod with good music",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "FNF: Vs Maia",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/705782"
+    },
+    "705881": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a83bafab55c7_800.webp",
+          "_sFile220": "sgi_feature_image_6a83bafab55c7_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5575084,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5575084",
+        "_sName": "Repile2",
+        "_sProfileUrl": "https://gamebanana.com/members/5575084"
+      },
+      "_idRow": 705881,
+      "_nLikeCount": 9,
+      "_nPostCount": 1,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Lunar Emo Nene As GF [Reskin]",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/705881"
     }
   }
 }
