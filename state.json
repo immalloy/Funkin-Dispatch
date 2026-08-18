@@ -70,21 +70,21 @@
       "period": "week",
       "rank": 2
     },
-    "704759": {
+    "704351": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     },
     "705198": {
       "period": "week",
       "rank": 1
     },
-    "705439": {
-      "period": "today",
-      "rank": 1
-    },
     "705466": {
       "period": "today",
-      "rank": 2
+      "rank": 3
+    },
+    "705782": {
+      "period": "today",
+      "rank": 1
     }
   },
   "mod_details": {
@@ -640,37 +640,38 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/704136"
     },
-    "704759": {
+    "704351": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a80bf9f8b11d_800.webp",
-          "_sFile220": "sgi_feature_image_6a80bf9f8b11d_220.webp"
+          "_sFile": "sgi_feature_image_6a7f99b6f0ad8_800.webp",
+          "_sFile220": "sgi_feature_image_6a7f99b6f0ad8_220.webp"
         }
       },
       "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3574043,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6696bc86d1127.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3574043",
-        "_sName": "Ledonic",
-        "_sProfileUrl": "https://gamebanana.com/members/3574043"
+        "_bIsOnline": true,
+        "_idRow": 2097768,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/668b254a6dbb7.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/66874f3192251.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2097768",
+        "_sName": "Hype Logy",
+        "_sProfileUrl": "https://gamebanana.com/members/2097768"
       },
-      "_idRow": 704759,
+      "_idRow": 704351,
       "_nLikeCount": 4,
-      "_nPostCount": 3,
-      "_sDescription": "A port of the fanmade remake of Hazy River",
+      "_nPostCount": 1,
+      "_sDescription": "Welcome back to daniel world!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "Hazier River (DEMO) Psych Port",
+      "_sName": "VS SUPERDANIEL 1.5 [THE OVERHAUL UPDATE]",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/704759"
+      "_sProfileUrl": "https://gamebanana.com/mods/704351"
     },
     "705198": {
       "_aPreviewContent": {
@@ -705,38 +706,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
     },
-    "705439": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a82624c05b6a_800.webp",
-          "_sFile220": "sgi_feature_image_6a82624c05b6a_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1840965,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6682b0e9d9a4a.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1840965",
-        "_sName": "MemeMachine208",
-        "_sProfileUrl": "https://gamebanana.com/members/1840965"
-      },
-      "_idRow": 705439,
-      "_nLikeCount": 8,
-      "_nPostCount": 4,
-      "_sDescription": "Her Sunset: First Movement.",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Sayori's Notebook: Otherself",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/705439"
-    },
     "705466": {
       "_aPreviewContent": {
         "screenshot": {
@@ -768,6 +737,37 @@
       "_sName": "FNF Adventures': K-Slice Engine",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/705466"
+    },
+    "705782": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a835fc889a3c_800.webp",
+          "_sFile220": "sgi_feature_image_6a835fc889a3c_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1943828,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8325a87152a.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1943828",
+        "_sName": "Maiandraw",
+        "_sProfileUrl": "https://gamebanana.com/members/1943828"
+      },
+      "_idRow": 705782,
+      "_nLikeCount": 5,
+      "_sDescription": "A short silly oc mod with good music",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "FNF: Vs Maia",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/705782"
     }
   }
 }
