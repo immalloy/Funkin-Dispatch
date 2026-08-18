@@ -752,7 +752,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 5575084,
         "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5575084",
