@@ -103,7 +103,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1951128,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69fa688018200.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/1951128",
@@ -471,7 +471,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/693eb7afe06b9.gif"
       },
       "_idRow": 664062,
-      "_nLikeCount": 295,
+      "_nLikeCount": 296,
       "_nPostCount": 119,
       "_sDescription": "It's Nene!",
       "_sInitialVisibility": "show",
