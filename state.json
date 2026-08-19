@@ -103,7 +103,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1951128,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69fa688018200.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/1951128",
@@ -719,7 +719,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1778213,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/621829ce66a61.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1778213",
@@ -760,7 +760,7 @@
       },
       "_idRow": 706398,
       "_nLikeCount": 2,
-      "_nPostCount": 2,
+      "_nPostCount": 3,
       "_sDescription": "green",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
