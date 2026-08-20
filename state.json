@@ -14,10 +14,6 @@
       "period": "week",
       "rank": 2
     },
-    "229028": {
-      "period": "today",
-      "rank": 3
-    },
     "309789": {
       "period": "alltime",
       "rank": 2
@@ -81,6 +77,10 @@
     "705198": {
       "period": "week",
       "rank": 1
+    },
+    "706808": {
+      "period": "today",
+      "rank": 3
     },
     "706898": {
       "period": "today",
@@ -193,7 +193,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/684498805b9e4.png"
       },
       "_idRow": 21926,
-      "_nLikeCount": 87,
+      "_nLikeCount": 89,
       "_nPostCount": 33,
       "_sDescription": "Time passes by fast.",
       "_sInitialVisibility": "show",
@@ -201,40 +201,6 @@
       "_sName": "Banner Museum",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/blogs/21926"
-    },
-    "229028": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_hFile": 350,
-          "_hFile220": 171,
-          "_sBaseUrl": "https://images.gamebanana.com/static/img/DefaultEmbeddables",
-          "_sFile": "Thread.jpg",
-          "_sFile220": "Thread_220.jpg"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "",
-        "_sName": "Other/Misc",
-        "_sProfileUrl": "https://gamebanana.com/threads/cats/4767"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 4993470,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a367f2a330f3.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/threads/4993470",
-        "_sName": "[+] Boyfriend [+]",
-        "_sProfileUrl": "https://gamebanana.com/members/4993470"
-      },
-      "_idRow": 229028,
-      "_nLikeCount": 7,
-      "_nPostCount": 2,
-      "_sDescription": "W H A T",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Thread",
-      "_sName": "Custom Banners for Mods!",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/threads/229028"
     },
     "309789": {
       "_aPreviewContent": {
@@ -755,6 +721,38 @@
       "_sName": "PLAYABLE BOYFRIEND 2",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
+    },
+    "706808": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a8642bc7e027_800.webp",
+          "_sFile220": "sgi_feature_image_6a8642bc7e027_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": true,
+        "_idRow": 5803305,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5803305",
+        "_sName": "FNF_FAAN",
+        "_sProfileUrl": "https://gamebanana.com/members/5803305"
+      },
+      "_idRow": 706808,
+      "_nLikeCount": 3,
+      "_nPostCount": 6,
+      "_sDescription": "idk what to put here it's my first mod.",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Hellbeats V-slice port",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/706808"
     },
     "706898": {
       "_aPreviewContent": {
