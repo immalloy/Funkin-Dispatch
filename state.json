@@ -78,13 +78,13 @@
       "period": "week",
       "rank": 2
     },
-    "706898": {
-      "period": "today",
-      "rank": 2
-    },
     "707056": {
       "period": "today",
       "rank": 1
+    },
+    "707298": {
+      "period": "today",
+      "rank": 2
     }
   },
   "mod_details": {
@@ -722,37 +722,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
     },
-    "706898": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a867459dc276_800.webp",
-          "_sFile220": "sgi_feature_image_6a867459dc276_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5059591,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a24c5895f167.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5059591",
-        "_sName": "PeelyBananza",
-        "_sProfileUrl": "https://gamebanana.com/members/5059591"
-      },
-      "_idRow": 706898,
-      "_nLikeCount": 5,
-      "_nPostCount": 17,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Eevee Mix [UNOFFICIAL V SLICE PORT]",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/706898"
-    },
     "707056": {
       "_aPreviewContent": {
         "screenshot": {
@@ -776,7 +745,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/4267667"
       },
       "_idRow": 707056,
-      "_nLikeCount": 12,
+      "_nLikeCount": 13,
       "_nPostCount": 6,
       "_sDescription": "FNF mod: Vs impostor but Human Struggle",
       "_sInitialVisibility": "show",
@@ -784,6 +753,39 @@
       "_sName": "Vs impostor but Human Struggle",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/707056"
+    },
+    "707298": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a878e772b013_800.webp",
+          "_sFile220": "sgi_feature_image_6a878e772b013_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2022723,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/63aca0f9ebdbd.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2022723",
+        "_sName": "invalid_bruh",
+        "_sProfileUrl": "https://gamebanana.com/members/2022723",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/63aca1570bc51.png"
+      },
+      "_idRow": 707298,
+      "_nLikeCount": 11,
+      "_nPostCount": 10,
+      "_sDescription": "The Best Matt Mod?",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Matt's Redemption",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/707298"
     }
   }
 }
