@@ -4,7 +4,7 @@
   "positions": {
     "103167": {
       "period": "today",
-      "rank": 2
+      "rank": 1
     },
     "166531": {
       "period": "alltime",
@@ -77,10 +77,6 @@
     "705198": {
       "period": "week",
       "rank": 2
-    },
-    "707840": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
@@ -107,7 +103,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/5820911"
       },
       "_idRow": 103167,
-      "_nLikeCount": 3,
+      "_nLikeCount": 4,
       "_nPostCount": 7,
       "_sDescription": "Santa's coming BACK to town!",
       "_sInitialVisibility": "show",
@@ -189,7 +185,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/684498805b9e4.png"
       },
       "_idRow": 21926,
-      "_nLikeCount": 117,
+      "_nLikeCount": 118,
       "_nPostCount": 38,
       "_sDescription": "Time passes by fast.",
       "_sInitialVisibility": "show",
@@ -720,38 +716,6 @@
       "_sName": "PLAYABLE BOYFRIEND 2",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
-    },
-    "707840": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a88d57869601_800.webp",
-          "_sFile220": "sgi_feature_image_6a88d57869601_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2061029,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6333551164d26.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2061029",
-        "_sName": "Cubed Chicken",
-        "_sProfileUrl": "https://gamebanana.com/members/2061029"
-      },
-      "_idRow": 707840,
-      "_nLikeCount": 11,
-      "_nPostCount": 5,
-      "_sDescription": "mario bing bing wahoo!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "FNF VS Mario 64",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/707840"
     }
   }
 }
