@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "103167": {
-      "period": "today",
-      "rank": 3
-    },
     "103179": {
       "period": "today",
       "rank": 1
@@ -82,44 +78,16 @@
       "period": "week",
       "rank": 2
     },
+    "708261": {
+      "period": "today",
+      "rank": 3
+    },
     "708293": {
       "period": "today",
       "rank": 2
     }
   },
   "mod_details": {
-    "103167": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6a89999da68ad_800.webp",
-          "_sFile220": "sgi_feature_image_6a89999da68ad_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/69cbe2d482ff9.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5820911,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8995a2542f3.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/5820911",
-        "_sName": "G01D3N_CR0W",
-        "_sProfileUrl": "https://gamebanana.com/members/5820911"
-      },
-      "_idRow": 103167,
-      "_nLikeCount": 6,
-      "_nPostCount": 7,
-      "_sDescription": "Santa's coming BACK to town!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Wip",
-      "_sName": "FNF Holiday Mod (Re-Presented)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/103167"
-    },
     "103179": {
       "_aPreviewContent": {
         "screenshot": {
@@ -145,7 +113,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69f5199b17bee.png"
       },
       "_idRow": 103179,
-      "_nLikeCount": 15,
+      "_nLikeCount": 18,
       "_nPostCount": 3,
       "_sDescription": "DONT LET IT HAPPEN!!",
       "_sInitialVisibility": "show",
@@ -759,6 +727,38 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/705198"
     },
+    "708261": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a8a0b7f29f4f_800.webp",
+          "_sFile220": "sgi_feature_image_6a8a0b7f29f4f_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2088022,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/64b3caeb0aaeb.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2088022",
+        "_sName": "HavocTheUnknown",
+        "_sProfileUrl": "https://gamebanana.com/members/2088022",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6820bfc5eccc8.png"
+      },
+      "_idRow": 708261,
+      "_nLikeCount": 2,
+      "_sDescription": "Do you even funk bro?",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Havoc's Playable Covers V1",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/708261"
+    },
     "708293": {
       "_aPreviewContent": {
         "screenshot": {
@@ -782,7 +782,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1825591"
       },
       "_idRow": 708293,
-      "_nLikeCount": 7,
+      "_nLikeCount": 8,
       "_nPostCount": 6,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
