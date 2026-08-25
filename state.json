@@ -748,7 +748,7 @@
           "_sTextHoverColor": "#FFFFFF"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 3512039,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69f9286d86363.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a5926866c5e8.jpg",
@@ -792,7 +792,7 @@
       },
       "_idRow": 709417,
       "_nLikeCount": 6,
-      "_nPostCount": 8,
+      "_nPostCount": 9,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "fnf different bg",
