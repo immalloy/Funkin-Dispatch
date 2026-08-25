@@ -72,19 +72,15 @@
     },
     "704928": {
       "period": "week",
-      "rank": 2
+      "rank": 3
     },
     "707298": {
       "period": "week",
-      "rank": 3
-    },
-    "709019": {
-      "period": "today",
       "rank": 2
     },
     "709061": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
@@ -716,7 +712,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/63aca1570bc51.png"
       },
       "_idRow": 707298,
-      "_nLikeCount": 55,
+      "_nLikeCount": 56,
       "_nPostCount": 37,
       "_sDescription": "The Best Matt Mod?",
       "_sInitialVisibility": "show",
@@ -724,38 +720,6 @@
       "_sName": "Matt's Redemption",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/707298"
-    },
-    "709019": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a8beb7e08a3e_800.webp",
-          "_sFile220": "sgi_feature_image_6a8beb7e08a3e_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1788007,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/602d6e59eb483.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1788007",
-        "_sName": "JordanSantiagoYT",
-        "_sProfileUrl": "https://gamebanana.com/members/1788007"
-      },
-      "_idRow": 709019,
-      "_nLikeCount": 3,
-      "_nPostCount": 6,
-      "_sDescription": "VS Impostor (Gametoonsified)",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "The Peakpostor Mod",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/709019"
     },
     "709061": {
       "_aPreviewContent": {
