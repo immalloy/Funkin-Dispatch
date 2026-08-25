@@ -58,10 +58,6 @@
       "period": "month",
       "rank": 1
     },
-    "699697": {
-      "period": "today",
-      "rank": 3
-    },
     "700138": {
       "period": "month",
       "rank": 3
@@ -80,11 +76,15 @@
     },
     "709417": {
       "period": "today",
-      "rank": 1
+      "rank": 2
     },
     "709727": {
       "period": "today",
-      "rank": 2
+      "rank": 3
+    },
+    "709738": {
+      "period": "today",
+      "rank": 1
     }
   },
   "mod_details": {
@@ -562,39 +562,6 @@
       "_sPeriod": "month",
       "_sProfileUrl": "https://gamebanana.com/mods/696957"
     },
-    "699697": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a8994696f87c_800.webp",
-          "_sFile220": "sgi_feature_image_6a8994696f87c_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3501208,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8c0a549da37.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3501208",
-        "_sName": "Cookie:)",
-        "_sProfileUrl": "https://gamebanana.com/members/3501208",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a8c0bb7f2000.png"
-      },
-      "_idRow": 699697,
-      "_nLikeCount": 6,
-      "_nPostCount": 5,
-      "_sDescription": "By Squere' Team",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Friday Night Funkin' Vs.Squere",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/699697"
-    },
     "700138": {
       "_aPreviewContent": {
         "screenshot": {
@@ -749,7 +716,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3189662"
       },
       "_idRow": 709417,
-      "_nLikeCount": 7,
+      "_nLikeCount": 8,
       "_nPostCount": 12,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -780,13 +747,45 @@
         "_sProfileUrl": "https://gamebanana.com/members/3404641"
       },
       "_idRow": 709727,
-      "_nLikeCount": 6,
-      "_nPostCount": 6,
+      "_nLikeCount": 7,
+      "_nPostCount": 7,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "ONCE AGAIN, S DR WERS!",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/709727"
+    },
+    "709738": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a8e02f083805_800.webp",
+          "_sFile220": "sgi_feature_image_6a8e02f083805_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1915127,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/64ea8038033cf.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1915127",
+        "_sName": "IronMario15",
+        "_sProfileUrl": "https://gamebanana.com/members/1915127"
+      },
+      "_idRow": 709738,
+      "_nLikeCount": 8,
+      "_nPostCount": 5,
+      "_sDescription": "Now you can play as Girlfriend",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Iron Mario's Playable GF (RESKIN MOD)",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/709738"
     }
   }
 }
