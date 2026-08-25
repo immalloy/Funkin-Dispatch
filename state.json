@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "103212": {
-      "period": "today",
-      "rank": 3
-    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -64,7 +60,7 @@
     },
     "699697": {
       "period": "today",
-      "rank": 2
+      "rank": 3
     },
     "700138": {
       "period": "month",
@@ -82,44 +78,16 @@
       "period": "week",
       "rank": 2
     },
-    "709417": {
+    "709291": {
       "period": "today",
       "rank": 1
+    },
+    "709417": {
+      "period": "today",
+      "rank": 2
     }
   },
   "mod_details": {
-    "103212": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6a8c8cf419a46_800.webp",
-          "_sFile220": "sgi_feature_image_6a8c8cf419a46_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/69cbe2d482ff9.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5676938,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8216d206687.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/5676938",
-        "_sName": "Decode3d",
-        "_sProfileUrl": "https://gamebanana.com/members/5676938"
-      },
-      "_idRow": 103212,
-      "_nLikeCount": 5,
-      "_nPostCount": 3,
-      "_sDescription": "Vs Bob Reimagined",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Wip",
-      "_sName": "FNF VS BOB (REIMAGINED)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/103212"
-    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -326,7 +294,7 @@
       },
       "_idRow": 632935,
       "_nLikeCount": 560,
-      "_nPostCount": 359,
+      "_nPostCount": 360,
       "_sDescription": "She's Finally Back!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -585,7 +553,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 445,
+      "_nLikeCount": 446,
       "_nPostCount": 352,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -618,7 +586,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a8c0bb7f2000.png"
       },
       "_idRow": 699697,
-      "_nLikeCount": 4,
+      "_nLikeCount": 5,
       "_nPostCount": 3,
       "_sDescription": "By Squere' Team",
       "_sInitialVisibility": "show",
@@ -758,6 +726,48 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/707298"
     },
+    "709291": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a8cbdd4475b8_800.webp",
+          "_sFile220": "sgi_feature_image_6a8cbdd4475b8_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_aSubjectShaper": {
+          "_sBorderColor": "#ffffff",
+          "_sBorderStyle": "Drop Glow",
+          "_sFont": "Trebuchet MS",
+          "_sTextColor": "#ffffff",
+          "_sTextHoverColor": "#FFFFFF"
+        },
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 3512039,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69f9286d86363.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a5926866c5e8.jpg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3512039",
+        "_sName": "kirito_kazuto",
+        "_sProfileUrl": "https://gamebanana.com/members/3512039",
+        "_sSubjectShaperCssCode": "font-family:'Trebuchet MS';color:#ffffff;",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/69fb7c154a5cd.png"
+      },
+      "_idRow": 709291,
+      "_nLikeCount": 5,
+      "_nPostCount": 1,
+      "_sDescription": "Beep-beeps with Caine and Pomni",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Friday Night Funkin': Digitized (TADFJ)",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/709291"
+    },
     "709417": {
       "_aPreviewContent": {
         "screenshot": {
@@ -773,7 +783,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 3189662,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a546b843aad8.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3189662",
@@ -782,7 +792,7 @@
       },
       "_idRow": 709417,
       "_nLikeCount": 6,
-      "_nPostCount": 7,
+      "_nPostCount": 8,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "fnf different bg",
