@@ -150,7 +150,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -716,7 +716,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3404641"
       },
       "_idRow": 709727,
-      "_nLikeCount": 8,
+      "_nLikeCount": 9,
       "_nPostCount": 7,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -747,8 +747,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/1915127"
       },
       "_idRow": 709738,
-      "_nLikeCount": 22,
-      "_nPostCount": 11,
+      "_nLikeCount": 28,
+      "_nPostCount": 13,
       "_sDescription": "Now you can play as Girlfriend",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -779,7 +779,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2375179"
       },
       "_idRow": 709832,
-      "_nLikeCount": 16,
+      "_nLikeCount": 20,
       "_nPostCount": 3,
       "_sDescription": "If you think about it, you can't tell if something is rotting or disappearing.",
       "_sInitialVisibility": "show",
