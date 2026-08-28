@@ -2,9 +2,13 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "103253": {
-      "period": "today",
+    "103179": {
+      "period": "week",
       "rank": 3
+    },
+    "103263": {
+      "period": "today",
+      "rank": 2
     },
     "166531": {
       "period": "alltime",
@@ -70,17 +74,13 @@
       "period": "week",
       "rank": 1
     },
-    "707298": {
-      "period": "week",
-      "rank": 2
-    },
     "708737": {
       "period": "week",
-      "rank": 3
+      "rank": 2
     },
     "710276": {
       "period": "today",
-      "rank": 2
+      "rank": 3
     },
     "710472": {
       "period": "today",
@@ -88,12 +88,46 @@
     }
   },
   "mod_details": {
-    "103253": {
+    "103179": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6a8ffcfae38ea_800.webp",
-          "_sFile220": "sgi_feature_image_6a8ffcfae38ea_220.webp"
+          "_sFile": "sgi_feature_image_6a89cccbce172_800.webp",
+          "_sFile220": "sgi_feature_image_6a89cccbce172_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/60382e0fbeea4.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/wips/cats/959"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1899042,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69f51b30d7e14.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a89ba51b3807.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/1899042",
+        "_sName": "Stahen",
+        "_sProfileUrl": "https://gamebanana.com/members/1899042",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/69f5199b17bee.png"
+      },
+      "_idRow": 103179,
+      "_nLikeCount": 47,
+      "_nPostCount": 5,
+      "_sDescription": "DONT LET IT HAPPEN!!",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Wip",
+      "_sName": "IT'S ALL TRUE [WIP]",
+      "_sPeriod": "week",
+      "_sProfileUrl": "https://gamebanana.com/wips/103179"
+    },
+    "103263": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
+          "_sFile": "sgi_feature_image_6a908e3896f7f_800.webp",
+          "_sFile220": "sgi_feature_image_6a908e3896f7f_220.webp"
         }
       },
       "_aRootCategory": {
@@ -102,24 +136,33 @@
         "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
       },
       "_aSubmitter": {
+        "_aSubjectShaper": {
+          "_sBorderColor": "#ff0000",
+          "_sBorderHoverColor": "#f00000",
+          "_sBorderStyle": "Glow",
+          "_sFont": "default",
+          "_sTextColor": "#8c8c8c",
+          "_sTextHoverColor": "#ff57f9"
+        },
         "_bHasRipe": false,
-        "_bIsOnline": true,
-        "_idRow": 3884632,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a85f88bde36e.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/3884632",
-        "_sName": "Golden bagira/super players",
-        "_sProfileUrl": "https://gamebanana.com/members/3884632",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a85f8974040d.png"
+        "_bIsOnline": false,
+        "_idRow": 1658384,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a9073e98cf38.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a185aae39621.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/1658384",
+        "_sName": "Herox_",
+        "_sProfileUrl": "https://gamebanana.com/members/1658384",
+        "_sSubjectShaperCssCode": "color:#8c8c8c;",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6939b3cb29ce3.gif"
       },
-      "_idRow": 103253,
-      "_nLikeCount": 3,
-      "_nPostCount": 2,
-      "_sDescription": "Marker mix",
+      "_idRow": 103263,
+      "_nLikeCount": 6,
+      "_sDescription": "Can we get a playable mix mod that's Tails?",
       "_sInitialVisibility": "show",
       "_sModelName": "Wip",
-      "_sName": "Matvey mix(reborn)",
+      "_sName": "FNF: Tails Mixes (WIP)",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/103253"
+      "_sProfileUrl": "https://gamebanana.com/wips/103263"
     },
     "166531": {
       "_aPreviewContent": {
@@ -211,7 +254,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1785113"
       },
       "_idRow": 44334,
-      "_nLikeCount": 3185,
+      "_nLikeCount": 3186,
       "_nPostCount": 4514,
       "_sDescription": "Add Tricky from the Madness Combat series to FNF!",
       "_sInitialVisibility": "show",
@@ -407,7 +450,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/693eb7afe06b9.gif"
       },
       "_idRow": 664062,
-      "_nLikeCount": 298,
+      "_nLikeCount": 299,
       "_nPostCount": 122,
       "_sDescription": "It's Nene!",
       "_sInitialVisibility": "show",
@@ -505,7 +548,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6887e95188c0c.png"
       },
       "_idRow": 689006,
-      "_nLikeCount": 174,
+      "_nLikeCount": 175,
       "_nPostCount": 66,
       "_sDescription": "Please stand by a Professional Nightmare Officer is currently en route.",
       "_sInitialVisibility": "show",
@@ -537,7 +580,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 455,
+      "_nLikeCount": 457,
       "_nPostCount": 352,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -644,39 +687,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/704928"
     },
-    "707298": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a878e772b013_800.webp",
-          "_sFile220": "sgi_feature_image_6a878e772b013_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2022723,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/63aca0f9ebdbd.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2022723",
-        "_sName": "invalid_bruh",
-        "_sProfileUrl": "https://gamebanana.com/members/2022723",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/63aca1570bc51.png"
-      },
-      "_idRow": 707298,
-      "_nLikeCount": 63,
-      "_nPostCount": 40,
-      "_sDescription": "The Best Matt Mod?",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Matt's Redemption",
-      "_sPeriod": "week",
-      "_sProfileUrl": "https://gamebanana.com/mods/707298"
-    },
     "708737": {
       "_aPreviewContent": {
         "screenshot": {
@@ -736,7 +746,7 @@
       },
       "_idRow": 710276,
       "_nLikeCount": 6,
-      "_nPostCount": 6,
+      "_nPostCount": 7,
       "_sDescription": "BFG",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -767,8 +777,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/5640360"
       },
       "_idRow": 710472,
-      "_nLikeCount": 10,
-      "_nPostCount": 4,
+      "_nLikeCount": 11,
+      "_nPostCount": 6,
       "_sDescription": "Ready for 0.01% of my power",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
