@@ -6,6 +6,10 @@
       "period": "today",
       "rank": 1
     },
+    "103364": {
+      "period": "today",
+      "rank": 2
+    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -77,10 +81,6 @@
     "711896": {
       "period": "week",
       "rank": 1
-    },
-    "711989": {
-      "period": "today",
-      "rank": 2
     }
   },
   "mod_details": {
@@ -107,14 +107,46 @@
         "_sProfileUrl": "https://gamebanana.com/members/4155772"
       },
       "_idRow": 103341,
-      "_nLikeCount": 2,
-      "_nPostCount": 1,
+      "_nLikeCount": 11,
+      "_nPostCount": 3,
       "_sDescription": "IM WORKIN ON IT",
       "_sInitialVisibility": "show",
       "_sModelName": "Wip",
       "_sName": "FNF: KEYGEN",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/wips/103341"
+    },
+    "103364": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
+          "_sFile": "sgi_feature_image_6a9613fb63be1_800.webp",
+          "_sFile220": "sgi_feature_image_6a9613fb63be1_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/69cbe2d482ff9.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5567190,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a27788075e88.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/5567190",
+        "_sName": "Luigis Remnant",
+        "_sProfileUrl": "https://gamebanana.com/members/5567190"
+      },
+      "_idRow": 103364,
+      "_nLikeCount": 2,
+      "_nPostCount": 2,
+      "_sDescription": "Lets Rock Again. Ya'little Cunt",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Wip",
+      "_sName": "Week 7.5 | Tankman's Revenge",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/wips/103364"
     },
     "166531": {
       "_aPreviewContent": {
@@ -140,7 +172,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/626dbd49b3557.png"
       },
       "_idRow": 166531,
-      "_nLikeCount": 2617,
+      "_nLikeCount": 2619,
       "_nPostCount": 1137,
       "_sDescription": "Take a hit of this!",
       "_sInitialVisibility": "show",
@@ -178,7 +210,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -189,7 +221,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/684498805b9e4.png"
       },
       "_idRow": 21926,
-      "_nLikeCount": 134,
+      "_nLikeCount": 135,
       "_nPostCount": 44,
       "_sDescription": "Time passes by fast.",
       "_sInitialVisibility": "show",
@@ -387,7 +419,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/693eb7afe06b9.gif"
       },
       "_idRow": 664062,
-      "_nLikeCount": 301,
+      "_nLikeCount": 302,
       "_nPostCount": 123,
       "_sDescription": "It's Nene!",
       "_sInitialVisibility": "show",
@@ -669,7 +701,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1801041,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6543b28e50312.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1801041",
@@ -711,45 +743,14 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 119,
-      "_nPostCount": 53,
+      "_nLikeCount": 122,
+      "_nPostCount": 54,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "FNF': 8R MIXES",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/711896"
-    },
-    "711989": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a94d3df73ce5_800.webp",
-          "_sFile220": "sgi_feature_image_6a94d3df73ce5_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2029172,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a3d98819d46e.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2029172",
-        "_sName": "Prebloss",
-        "_sProfileUrl": "https://gamebanana.com/members/2029172"
-      },
-      "_idRow": 711989,
-      "_nLikeCount": 3,
-      "_nPostCount": 4,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Shoshinkai Panikku ! (3DS port)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/711989"
     }
   }
 }
