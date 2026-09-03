@@ -54,10 +54,6 @@
       "period": "3month",
       "rank": 1
     },
-    "697536": {
-      "period": "week",
-      "rank": 3
-    },
     "700138": {
       "period": "month",
       "rank": 2
@@ -73,6 +69,10 @@
     "711896": {
       "period": "week",
       "rank": 1
+    },
+    "712667": {
+      "period": "week",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -138,7 +138,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -215,7 +215,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1785113"
       },
       "_idRow": 44334,
-      "_nLikeCount": 3187,
+      "_nLikeCount": 3186,
       "_nPostCount": 4514,
       "_sDescription": "Add Tricky from the Madness Combat series to FNF!",
       "_sInitialVisibility": "show",
@@ -518,40 +518,6 @@
       "_sPeriod": "3month",
       "_sProfileUrl": "https://gamebanana.com/mods/696957"
     },
-    "697536": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a658c6842148_800.webp",
-          "_sFile220": "sgi_feature_image_6a658c6842148_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1871027,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/67a60a2860054.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1871027",
-        "_sName": "Sakuroll",
-        "_sProfileUrl": "https://gamebanana.com/members/1871027",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/67a60769523a2.png"
-      },
-      "_idRow": 697536,
-      "_nLikeCount": 40,
-      "_nPostCount": 16,
-      "_sDescription": "THEY'RE ALL GONNA LAUGH AT YOU!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "FNF: Sandler Mix",
-      "_sPeriod": "week",
-      "_sProfileUrl": "https://gamebanana.com/mods/697536"
-    },
     "700138": {
       "_aPreviewContent": {
         "screenshot": {
@@ -640,7 +606,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6543b4275e7bf.png"
       },
       "_idRow": 710854,
-      "_nLikeCount": 99,
+      "_nLikeCount": 100,
       "_nPostCount": 31,
       "_sDescription": "Party like it's 2008!",
       "_sInitialVisibility": "show",
@@ -673,14 +639,46 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 139,
-      "_nPostCount": 60,
+      "_nLikeCount": 140,
+      "_nPostCount": 61,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "FNF': 8R MIXES",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/711896"
+    },
+    "712667": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a97405647528_800.webp",
+          "_sFile220": "sgi_feature_image_6a97405647528_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2920030,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/671c5c852c359.jpg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2920030",
+        "_sName": "lumiscostta",
+        "_sProfileUrl": "https://gamebanana.com/members/2920030"
+      },
+      "_idRow": 712667,
+      "_nLikeCount": 41,
+      "_nPostCount": 46,
+      "_sDescription": "The Spotlight Update",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "PLASM FUNKIN'",
+      "_sPeriod": "week",
+      "_sProfileUrl": "https://gamebanana.com/mods/712667"
     }
   }
 }
