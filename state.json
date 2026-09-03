@@ -73,6 +73,10 @@
     "712667": {
       "period": "week",
       "rank": 3
+    },
+    "712966": {
+      "period": "today",
+      "rank": 1
     }
   },
   "mod_details": {
@@ -606,8 +610,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6543b4275e7bf.png"
       },
       "_idRow": 710854,
-      "_nLikeCount": 100,
-      "_nPostCount": 31,
+      "_nLikeCount": 102,
+      "_nPostCount": 32,
       "_sDescription": "Party like it's 2008!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -639,8 +643,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 140,
-      "_nPostCount": 61,
+      "_nLikeCount": 142,
+      "_nPostCount": 62,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -671,14 +675,44 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 41,
-      "_nPostCount": 46,
+      "_nLikeCount": 43,
+      "_nPostCount": 50,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "PLASM FUNKIN'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/712667"
+    },
+    "712966": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a9872bd20976_800.webp",
+          "_sFile220": "sgi_feature_image_6a9872bd20976_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 4613001,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69b41e2247773.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4613001",
+        "_sName": "Dantevergil25",
+        "_sProfileUrl": "https://gamebanana.com/members/4613001"
+      },
+      "_idRow": 712966,
+      "_nLikeCount": 3,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "funkFlippy sprites HOTFIX",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/712966"
     }
   }
 }
