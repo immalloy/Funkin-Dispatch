@@ -74,10 +74,6 @@
       "period": "week",
       "rank": 3
     },
-    "713120": {
-      "period": "today",
-      "rank": 2
-    },
     "713252": {
       "period": "today",
       "rank": 1
@@ -146,7 +142,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -485,7 +481,7 @@
       },
       "_idRow": 696957,
       "_nLikeCount": 465,
-      "_nPostCount": 360,
+      "_nPostCount": 361,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -548,7 +544,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1770413"
       },
       "_idRow": 702352,
-      "_nLikeCount": 80,
+      "_nLikeCount": 81,
       "_nPostCount": 76,
       "_sDescription": "I found something..",
       "_sInitialVisibility": "show",
@@ -648,7 +644,7 @@
       },
       "_idRow": 711896,
       "_nLikeCount": 148,
-      "_nPostCount": 65,
+      "_nPostCount": 66,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -679,7 +675,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 49,
+      "_nLikeCount": 51,
       "_nPostCount": 55,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
@@ -687,38 +683,6 @@
       "_sName": "PLASM FUNKIN'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/712667"
-    },
-    "713120": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a98f6e4bfeb1_800.webp",
-          "_sFile220": "sgi_feature_image_6a98f6e4bfeb1_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1993975,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/62c638e32c792.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1993975",
-        "_sName": "Plotsh",
-        "_sProfileUrl": "https://gamebanana.com/members/1993975"
-      },
-      "_idRow": 713120,
-      "_nLikeCount": 11,
-      "_nPostCount": 10,
-      "_sDescription": "Super Cat Tales but in FNF",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "[DEMO RELEASE] Super Cat Tales: Funkin' Edition!",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/713120"
     },
     "713252": {
       "_aPreviewContent": {
@@ -743,7 +707,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/5434879"
       },
       "_idRow": 713252,
-      "_nLikeCount": 4,
+      "_nLikeCount": 6,
       "_sDescription": "DaveandBambi mod of Dreamcore!! by Japanese Creators!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
