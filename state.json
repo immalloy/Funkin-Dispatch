@@ -73,10 +73,6 @@
     "712667": {
       "period": "week",
       "rank": 3
-    },
-    "713252": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
@@ -142,7 +138,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -187,7 +183,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/61169f228bd2d.gif"
       },
       "_idRow": 309789,
-      "_nLikeCount": 2791,
+      "_nLikeCount": 2792,
       "_nPostCount": 4456,
       "_sDescription": "A Developer-friendly FNF Engine",
       "_sInitialVisibility": "show",
@@ -643,7 +639,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 152,
+      "_nLikeCount": 155,
       "_nPostCount": 66,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
@@ -675,7 +671,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 53,
+      "_nLikeCount": 55,
       "_nPostCount": 55,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
@@ -683,38 +679,6 @@
       "_sName": "PLASM FUNKIN'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/712667"
-    },
-    "713252": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a99896f4e652_800.webp",
-          "_sFile220": "sgi_feature_image_6a99896f4e652_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5434879,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5434879",
-        "_sName": "bindumechan",
-        "_sProfileUrl": "https://gamebanana.com/members/5434879"
-      },
-      "_idRow": 713252,
-      "_nLikeCount": 9,
-      "_nPostCount": 3,
-      "_sDescription": "DaveandBambi mod of Dreamcore!! by Japanese Creators!",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Dave and Bambi:DreamcoreEdition",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/713252"
     }
   }
 }
