@@ -74,13 +74,17 @@
       "period": "week",
       "rank": 2
     },
-    "714093": {
+    "714025": {
       "period": "today",
       "rank": 1
     },
-    "714126": {
+    "714093": {
       "period": "today",
       "rank": 2
+    },
+    "714397": {
+      "period": "today",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -157,7 +161,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/684498805b9e4.png"
       },
       "_idRow": 21926,
-      "_nLikeCount": 146,
+      "_nLikeCount": 147,
       "_nPostCount": 47,
       "_sDescription": "Time passes by fast.",
       "_sInitialVisibility": "show",
@@ -355,7 +359,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/693eb7afe06b9.gif"
       },
       "_idRow": 664062,
-      "_nLikeCount": 307,
+      "_nLikeCount": 308,
       "_nPostCount": 123,
       "_sDescription": "It's Nene!",
       "_sInitialVisibility": "show",
@@ -389,7 +393,7 @@
       },
       "_idRow": 674401,
       "_nLikeCount": 281,
-      "_nPostCount": 173,
+      "_nPostCount": 174,
       "_sDescription": "Smoke 'Em Out Struggle with a new coat of paint! Or should I say... a cover of smoke? idk how to do puns man",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -453,8 +457,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6887e95188c0c.png"
       },
       "_idRow": 689006,
-      "_nLikeCount": 179,
-      "_nPostCount": 77,
+      "_nLikeCount": 180,
+      "_nPostCount": 79,
       "_sDescription": "Please stand by a Professional Nightmare Officer is currently en route.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -485,8 +489,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 466,
-      "_nPostCount": 366,
+      "_nLikeCount": 467,
+      "_nPostCount": 367,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -628,8 +632,8 @@
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9491314e39d_800.webp",
-          "_sFile220": "sgi_feature_image_6a9491314e39d_220.webp"
+          "_sFile": "sgi_feature_image_6a9da4bfdee9f_800.webp",
+          "_sFile220": "sgi_feature_image_6a9da4bfdee9f_220.webp"
         }
       },
       "_aRootCategory": {
@@ -639,7 +643,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 2187687,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69558751caefb.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2187687",
@@ -648,8 +652,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 172,
-      "_nPostCount": 69,
+      "_nLikeCount": 173,
+      "_nPostCount": 70,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -680,7 +684,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 64,
+      "_nLikeCount": 65,
       "_nPostCount": 58,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
@@ -688,6 +692,38 @@
       "_sName": "PLASM FUNKIN'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/712667"
+    },
+    "714025": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a9c4c6099a36_800.webp",
+          "_sFile220": "sgi_feature_image_6a9c4c6099a36_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 3442782,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6722b96d7df22.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3442782",
+        "_sName": "RubyyyButCool",
+        "_sProfileUrl": "https://gamebanana.com/members/3442782"
+      },
+      "_idRow": 714025,
+      "_nLikeCount": 4,
+      "_nPostCount": 1,
+      "_sDescription": "Another self-insert mix",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Friday Night Funkin': Rubyyy Mix",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/714025"
     },
     "714093": {
       "_aPreviewContent": {
@@ -704,7 +740,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 2136647,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69b55c19921af.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2136647",
@@ -721,36 +757,47 @@
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/714093"
     },
-    "714126": {
+    "714397": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9c9505d2ab1_800.webp",
-          "_sFile220": "sgi_feature_image_6a9c9505d2ab1_220.webp"
+          "_sFile": "sgi_feature_image_6a9d84411e035_800.webp",
+          "_sFile220": "sgi_feature_image_6a9d84411e035_220.webp"
         }
       },
       "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
       },
       "_aSubmitter": {
+        "_aSubjectShaper": {
+          "_sBorderColor": "#2400a8",
+          "_sBorderHoverColor": "#940000",
+          "_sBorderStyle": "Stroke",
+          "_sFont": "Arial Black",
+          "_sTextColor": "#a600ff",
+          "_sTextHoverColor": "#ff0059"
+        },
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 5874227,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5874227",
-        "_sName": "_NoobGuyX",
-        "_sProfileUrl": "https://gamebanana.com/members/5874227"
+        "_idRow": 1792055,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6568dc5836d7e.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/68595eeb8153b.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1792055",
+        "_sName": "Baclan4ik",
+        "_sProfileUrl": "https://gamebanana.com/members/1792055",
+        "_sSubjectShaperCssCode": "font-family:'Arial Black';color:#a600ff;"
       },
-      "_idRow": 714126,
+      "_idRow": 714397,
       "_nLikeCount": 4,
-      "_sDescription": "A customization mod for FNF",
+      "_nPostCount": 3,
+      "_sDescription": "Fell is mad",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "NPLUS FNF",
+      "_sName": "Fell Fellovich Funkin' Refell",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/714126"
+      "_sProfileUrl": "https://gamebanana.com/mods/714397"
     }
   }
 }
