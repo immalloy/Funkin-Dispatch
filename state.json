@@ -74,13 +74,13 @@
       "period": "week",
       "rank": 2
     },
-    "713878": {
-      "period": "today",
-      "rank": 3
-    },
     "713935": {
       "period": "today",
       "rank": 1
+    },
+    "713969": {
+      "period": "today",
+      "rank": 3
     },
     "713981": {
       "period": "today",
@@ -150,7 +150,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -457,7 +457,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6887e95188c0c.png"
       },
       "_idRow": 689006,
-      "_nLikeCount": 177,
+      "_nLikeCount": 178,
       "_nPostCount": 72,
       "_sDescription": "Please stand by a Professional Nightmare Officer is currently en route.",
       "_sInitialVisibility": "show",
@@ -684,7 +684,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 63,
+      "_nLikeCount": 64,
       "_nPostCount": 58,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
@@ -692,39 +692,6 @@
       "_sName": "PLASM FUNKIN'",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/712667"
-    },
-    "713878": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9bd8aa4752e_800.webp",
-          "_sFile220": "sgi_feature_image_6a9bd8aa4752e_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3932044,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68959b945a8dc.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3932044",
-        "_sName": "DzakkiPro",
-        "_sProfileUrl": "https://gamebanana.com/members/3932044",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6936d939e0b4d.png"
-      },
-      "_idRow": 713878,
-      "_nLikeCount": 2,
-      "_nPostCount": 2,
-      "_sDescription": "Better Camera Shader",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Better schoolEvilEr*t Shader",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/713878"
     },
     "713935": {
       "_aPreviewContent": {
@@ -741,7 +708,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 2751122,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/672a64bd722cf.gif",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/675c7b981c13e.png",
@@ -751,7 +718,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/673dad29625ac.png"
       },
       "_idRow": 713935,
-      "_nLikeCount": 19,
+      "_nLikeCount": 20,
       "_nPostCount": 11,
       "_sDescription": "Champ?!!!",
       "_sInitialVisibility": "show",
@@ -759,6 +726,38 @@
       "_sName": "PerfeXion:Demo",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/713935"
+    },
+    "713969": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a9c2e8066356_800.webp",
+          "_sFile220": "sgi_feature_image_6a9c2e8066356_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5382774,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5382774",
+        "_sName": "ADAMTHEFNFVSLICEPORTER",
+        "_sProfileUrl": "https://gamebanana.com/members/5382774"
+      },
+      "_idRow": 713969,
+      "_nLikeCount": 3,
+      "_nPostCount": 2,
+      "_sDescription": "Super Funkin' Galaxy Demo v2.3.0 v slice port",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Super Funkin' Galaxy Demo v2.3.0 v slice port",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/713969"
     },
     "713981": {
       "_aPreviewContent": {
