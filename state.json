@@ -74,17 +74,17 @@
       "period": "week",
       "rank": 2
     },
-    "714025": {
+    "714402": {
       "period": "today",
       "rank": 2
-    },
-    "714397": {
-      "period": "today",
-      "rank": 3
     },
     "714422": {
       "period": "today",
       "rank": 1
+    },
+    "714435": {
+      "period": "today",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -150,7 +150,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -227,7 +227,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1785113"
       },
       "_idRow": 44334,
-      "_nLikeCount": 3186,
+      "_nLikeCount": 3187,
       "_nPostCount": 4514,
       "_sDescription": "Add Tricky from the Madness Combat series to FNF!",
       "_sInitialVisibility": "show",
@@ -458,7 +458,7 @@
       },
       "_idRow": 689006,
       "_nLikeCount": 182,
-      "_nPostCount": 79,
+      "_nPostCount": 80,
       "_sDescription": "Please stand by a Professional Nightmare Officer is currently en route.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -587,8 +587,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 176,
-      "_nPostCount": 70,
+      "_nLikeCount": 177,
+      "_nPostCount": 71,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -600,8 +600,8 @@
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a97405647528_800.webp",
-          "_sFile220": "sgi_feature_image_6a97405647528_220.webp"
+          "_sFile": "sgi_feature_image_6a9ecd2e5bc1f_800.webp",
+          "_sFile220": "sgi_feature_image_6a9ecd2e5bc1f_220.webp"
         }
       },
       "_aRootCategory": {
@@ -619,7 +619,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2920030"
       },
       "_idRow": 712667,
-      "_nLikeCount": 65,
+      "_nLikeCount": 66,
       "_nPostCount": 58,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
@@ -694,44 +694,12 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/713935"
     },
-    "714025": {
+    "714402": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9c4c6099a36_800.webp",
-          "_sFile220": "sgi_feature_image_6a9c4c6099a36_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3442782,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6722b96d7df22.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3442782",
-        "_sName": "RubyyyButCool",
-        "_sProfileUrl": "https://gamebanana.com/members/3442782"
-      },
-      "_idRow": 714025,
-      "_nLikeCount": 7,
-      "_nPostCount": 1,
-      "_sDescription": "Another self-insert mix",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Friday Night Funkin': Rubyyy Mix",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/714025"
-    },
-    "714397": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9d84411e035_800.webp",
-          "_sFile220": "sgi_feature_image_6a9d84411e035_220.webp"
+          "_sFile": "sgi_feature_image_6a9d868b1c9a2_800.webp",
+          "_sFile220": "sgi_feature_image_6a9d868b1c9a2_220.webp"
         }
       },
       "_aRootCategory": {
@@ -740,33 +708,23 @@
         "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
       },
       "_aSubmitter": {
-        "_aSubjectShaper": {
-          "_sBorderColor": "#2400a8",
-          "_sBorderHoverColor": "#940000",
-          "_sBorderStyle": "Stroke",
-          "_sFont": "Arial Black",
-          "_sTextColor": "#a600ff",
-          "_sTextHoverColor": "#ff0059"
-        },
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 1792055,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6568dc5836d7e.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/68595eeb8153b.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1792055",
-        "_sName": "Baclan4ik",
-        "_sProfileUrl": "https://gamebanana.com/members/1792055",
-        "_sSubjectShaperCssCode": "font-family:'Arial Black';color:#a600ff;"
+        "_idRow": 2862504,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a0cc4645e46b.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2862504",
+        "_sName": "Ars_tist",
+        "_sProfileUrl": "https://gamebanana.com/members/2862504"
       },
-      "_idRow": 714397,
-      "_nLikeCount": 4,
-      "_nPostCount": 4,
-      "_sDescription": "Fell is mad",
+      "_idRow": 714402,
+      "_nLikeCount": 11,
+      "_nPostCount": 3,
+      "_sDescription": "[Chapter 1]",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "Fell Fellovich Funkin' Refell",
+      "_sName": "Delayed Retribution",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/714397"
+      "_sProfileUrl": "https://gamebanana.com/mods/714402"
     },
     "714422": {
       "_aPreviewContent": {
@@ -783,7 +741,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 4383149,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/67fc8afee0f83.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4383149",
@@ -791,14 +749,46 @@
         "_sProfileUrl": "https://gamebanana.com/members/4383149"
       },
       "_idRow": 714422,
-      "_nLikeCount": 10,
-      "_nPostCount": 2,
+      "_nLikeCount": 15,
+      "_nPostCount": 4,
       "_sDescription": "It's your fault!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Shuckstale Oneshot",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/714422"
+    },
+    "714435": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6a9da2e7a9a56_800.webp",
+          "_sFile220": "sgi_feature_image_6a9da2e7a9a56_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 3012661,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6557c13834eba.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3012661",
+        "_sName": "MegaFan650",
+        "_sProfileUrl": "https://gamebanana.com/members/3012661"
+      },
+      "_idRow": 714435,
+      "_nLikeCount": 6,
+      "_nPostCount": 4,
+      "_sDescription": "Your Local FNF Gacha Life 2 Mod",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "FNF: CORRUPTED CALAMITY",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/714435"
     }
   }
 }
