@@ -76,15 +76,15 @@
     },
     "714025": {
       "period": "today",
-      "rank": 1
+      "rank": 2
     },
     "714397": {
       "period": "today",
-      "rank": 2
-    },
-    "714435": {
-      "period": "today",
       "rank": 3
+    },
+    "714422": {
+      "period": "today",
+      "rank": 1
     }
   },
   "mod_details": {
@@ -489,7 +489,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 467,
+      "_nLikeCount": 468,
       "_nPostCount": 367,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -587,7 +587,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 175,
+      "_nLikeCount": 176,
       "_nPostCount": 70,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
@@ -717,7 +717,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3442782"
       },
       "_idRow": 714025,
-      "_nLikeCount": 6,
+      "_nLikeCount": 7,
       "_nPostCount": 1,
       "_sDescription": "Another self-insert mix",
       "_sInitialVisibility": "show",
@@ -768,12 +768,12 @@
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/714397"
     },
-    "714435": {
+    "714422": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9da2e7a9a56_800.webp",
-          "_sFile220": "sgi_feature_image_6a9da2e7a9a56_220.webp"
+          "_sFile": "sgi_feature_image_6a9d9da670ee4_800.webp",
+          "_sFile220": "sgi_feature_image_6a9d9da670ee4_220.webp"
         }
       },
       "_aRootCategory": {
@@ -784,21 +784,21 @@
       "_aSubmitter": {
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 3012661,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6557c13834eba.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3012661",
-        "_sName": "MegaFan650",
-        "_sProfileUrl": "https://gamebanana.com/members/3012661"
+        "_idRow": 4383149,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/67fc8afee0f83.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4383149",
+        "_sName": "XTheXanderX",
+        "_sProfileUrl": "https://gamebanana.com/members/4383149"
       },
-      "_idRow": 714435,
-      "_nLikeCount": 3,
-      "_nPostCount": 4,
-      "_sDescription": "Your Local FNF Gacha Life 2 Mod",
+      "_idRow": 714422,
+      "_nLikeCount": 10,
+      "_nPostCount": 2,
+      "_sDescription": "It's your fault!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "FNF: CORRUPTED CALAMITY",
+      "_sName": "Shuckstale Oneshot",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/714435"
+      "_sProfileUrl": "https://gamebanana.com/mods/714422"
     }
   }
 }
