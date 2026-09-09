@@ -12,7 +12,7 @@
     },
     "24077": {
       "period": "today",
-      "rank": 2
+      "rank": 1
     },
     "309789": {
       "period": "alltime",
@@ -77,10 +77,6 @@
     "714611": {
       "period": "week",
       "rank": 2
-    },
-    "714988": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
@@ -146,7 +142,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -517,7 +513,7 @@
       },
       "_idRow": 696957,
       "_nLikeCount": 469,
-      "_nPostCount": 367,
+      "_nPostCount": 368,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -672,7 +668,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 4383149,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/67fc8afee0f83.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4383149",
@@ -720,38 +716,6 @@
       "_sName": "FNF VS A DAMN FUNKIN' SPIDER",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/714611"
-    },
-    "714988": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6a9f49d7f0cbc_800.webp",
-          "_sFile220": "sgi_feature_image_6a9f49d7f0cbc_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5860939,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a9f505bc9e84.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5860939",
-        "_sName": "Nymbol_Rose",
-        "_sProfileUrl": "https://gamebanana.com/members/5860939"
-      },
-      "_idRow": 714988,
-      "_nLikeCount": 3,
-      "_nPostCount": 1,
-      "_sDescription": "awesome one-shot made in 1 week",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Me When",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/714988"
     }
   }
 }
