@@ -74,17 +74,13 @@
       "period": "week",
       "rank": 2
     },
-    "715488": {
-      "period": "today",
-      "rank": 2
-    },
     "715633": {
       "period": "today",
       "rank": 1
     },
     "715651": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
@@ -694,39 +690,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/714611"
     },
-    "715488": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aa15cb946535_800.webp",
-          "_sFile220": "sgi_feature_image_6aa15cb946535_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3932044,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68959b945a8dc.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3932044",
-        "_sName": "DzakkiPro",
-        "_sProfileUrl": "https://gamebanana.com/members/3932044",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6936d939e0b4d.png"
-      },
-      "_idRow": 715488,
-      "_nLikeCount": 4,
-      "_nPostCount": 4,
-      "_sDescription": "Custom Modpack Miku Mixes",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Miku Mixes Pack | Demo",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/715488"
-    },
     "715633": {
       "_aPreviewContent": {
         "screenshot": {
@@ -752,7 +715,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a85a3932b616.gif"
       },
       "_idRow": 715633,
-      "_nLikeCount": 7,
+      "_nLikeCount": 8,
       "_nPostCount": 3,
       "_sDescription": "...To somewhere no one has ever been before! Week 8.",
       "_sInitialVisibility": "show",
