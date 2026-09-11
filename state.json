@@ -76,15 +76,15 @@
     },
     "715856": {
       "period": "today",
-      "rank": 2
+      "rank": 3
     },
     "715875": {
       "period": "today",
-      "rank": 3
+      "rank": 1
     },
     "715973": {
       "period": "today",
-      "rank": 1
+      "rank": 2
     }
   },
   "mod_details": {
@@ -383,7 +383,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 2030203,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69d28a2c7b20d.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2030203",
@@ -645,7 +645,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 4383149,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/67fc8afee0f83.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4383149",
@@ -709,7 +709,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 4975871,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a93cc4af27c1.jpeg",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4975871",
@@ -750,7 +750,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/697d1a3605f25.png"
       },
       "_idRow": 715875,
-      "_nLikeCount": 2,
+      "_nLikeCount": 3,
       "_nPostCount": 1,
       "_sDescription": "JUST PRETEND TO LOVE ME!!!",
       "_sInitialVisibility": "show",
@@ -782,7 +782,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/5527092"
       },
       "_idRow": 715973,
-      "_nLikeCount": 4,
+      "_nLikeCount": 6,
       "_nPostCount": 3,
       "_sDescription": "FNF SKIN RETAKE ATLAS [V-SLICE]",
       "_sInitialVisibility": "show",
