@@ -73,14 +73,6 @@
     "714611": {
       "period": "week",
       "rank": 2
-    },
-    "715633": {
-      "period": "today",
-      "rank": 1
-    },
-    "715651": {
-      "period": "today",
-      "rank": 2
     }
   },
   "mod_details": {
@@ -257,7 +249,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/631180a22b1d3.png"
       },
       "_idRow": 632935,
-      "_nLikeCount": 568,
+      "_nLikeCount": 569,
       "_nPostCount": 365,
       "_sDescription": "She's Finally Back!",
       "_sInitialVisibility": "show",
@@ -649,8 +641,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/4383149"
       },
       "_idRow": 714422,
-      "_nLikeCount": 21,
-      "_nPostCount": 6,
+      "_nLikeCount": 22,
+      "_nPostCount": 7,
       "_sDescription": "It's your fault!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -689,73 +681,6 @@
       "_sName": "FNF VS A DAMN FUNKIN' SPIDER",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/714611"
-    },
-    "715633": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aa1da5001c83_800.webp",
-          "_sFile220": "sgi_feature_image_6aa1da5001c83_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2339352,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a42f9ae5aaf9.gif",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a42f71fddb99.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2339352",
-        "_sName": "lottaAutumn",
-        "_sProfileUrl": "https://gamebanana.com/members/2339352",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a85a3932b616.gif"
-      },
-      "_idRow": 715633,
-      "_nLikeCount": 10,
-      "_nPostCount": 4,
-      "_sDescription": "...To somewhere no one has ever been before! Week 8.",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Funkin' Weird Route",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/715633"
-    },
-    "715651": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aa1eda7363c2_800.webp",
-          "_sFile220": "sgi_feature_image_6aa1eda7363c2_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1817173,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/64ee5b4fe4d90.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1817173",
-        "_sName": "DatGB",
-        "_sProfileUrl": "https://gamebanana.com/members/1817173",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/64ee5b90ed750.png"
-      },
-      "_idRow": 715651,
-      "_nLikeCount": 4,
-      "_nPostCount": 1,
-      "_sDescription": "let me in",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "DAVE AND BAMBI: DEALBREAKER MOD (cancelled build)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/715651"
     }
   }
 }
