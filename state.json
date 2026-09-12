@@ -74,10 +74,6 @@
       "period": "week",
       "rank": 2
     },
-    "715973": {
-      "period": "today",
-      "rank": 3
-    },
     "716012": {
       "period": "today",
       "rank": 2
@@ -85,6 +81,10 @@
     "716094": {
       "period": "today",
       "rank": 1
+    },
+    "716129": {
+      "period": "today",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -150,7 +150,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -161,7 +161,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/684498805b9e4.png"
       },
       "_idRow": 21926,
-      "_nLikeCount": 150,
+      "_nLikeCount": 151,
       "_nPostCount": 47,
       "_sDescription": "Time passes by fast.",
       "_sInitialVisibility": "show",
@@ -694,38 +694,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/714611"
     },
-    "715973": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aa3440424e07_800.webp",
-          "_sFile220": "sgi_feature_image_6aa3440424e07_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5527092,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5527092",
-        "_sName": "felixmx2013",
-        "_sProfileUrl": "https://gamebanana.com/members/5527092"
-      },
-      "_idRow": 715973,
-      "_nLikeCount": 8,
-      "_nPostCount": 6,
-      "_sDescription": "FNF SKIN RETAKE ATLAS [V-SLICE]",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "FNF SKIN RETAKE ATLAS [V-SLICE]",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/715973"
-    },
     "716012": {
       "_aPreviewContent": {
         "screenshot": {
@@ -751,8 +719,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/64faa97253dca.png"
       },
       "_idRow": 716012,
-      "_nLikeCount": 13,
-      "_nPostCount": 7,
+      "_nLikeCount": 14,
+      "_nPostCount": 8,
       "_sDescription": "Welcome Old Aniversary DEMO",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -784,14 +752,45 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6936d939e0b4d.png"
       },
       "_idRow": 716094,
-      "_nLikeCount": 11,
-      "_nPostCount": 5,
+      "_nLikeCount": 12,
+      "_nPostCount": 9,
       "_sDescription": "GF Hoodie Outfit",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "GF Hoodie AMTake",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/716094"
+    },
+    "716129": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6aa43ee2f0abf_800.webp",
+          "_sFile220": "sgi_feature_image_6aa43ee2f0abf_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5902161,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6aa444240ce5f.jpeg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5902161",
+        "_sName": "UriSaik",
+        "_sProfileUrl": "https://gamebanana.com/members/5902161"
+      },
+      "_idRow": 716129,
+      "_nLikeCount": 3,
+      "_sDescription": "Friday UriSaik is a musical adventure packed with original characters, memorable songs, and exciting rap battles, celebrating the creative universe of UriSaik in the classic style of Friday Night Funk",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "FNF Friday UriSaik",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/716129"
     }
   }
 }
