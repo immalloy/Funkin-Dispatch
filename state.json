@@ -74,17 +74,13 @@
       "period": "week",
       "rank": 1
     },
-    "717070": {
-      "period": "today",
-      "rank": 2
-    },
     "717135": {
       "period": "today",
       "rank": 1
     },
     "717172": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
@@ -326,7 +322,7 @@
       },
       "_idRow": 652786,
       "_nLikeCount": 545,
-      "_nPostCount": 252,
+      "_nPostCount": 253,
       "_sDescription": "Think you've got what it takes?",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -650,7 +646,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1835372"
       },
       "_idRow": 716629,
-      "_nLikeCount": 27,
+      "_nLikeCount": 28,
       "_nPostCount": 10,
       "_sDescription": "eaeaea",
       "_sInitialVisibility": "show",
@@ -691,38 +687,6 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/716834"
     },
-    "717070": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aa7329787231_800.webp",
-          "_sFile220": "sgi_feature_image_6aa7329787231_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5251491,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69c8a9cc16920.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5251491",
-        "_sName": "Bruno400",
-        "_sProfileUrl": "https://gamebanana.com/members/5251491"
-      },
-      "_idRow": 717070,
-      "_nLikeCount": 3,
-      "_nPostCount": 3,
-      "_sDescription": "Compatible con la 0.8.6 del FNF",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Sleep Well (FNF Versión) V-Slice Port",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/717070"
-    },
     "717135": {
       "_aPreviewContent": {
         "screenshot": {
@@ -746,7 +710,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3835666"
       },
       "_idRow": 717135,
-      "_nLikeCount": 13,
+      "_nLikeCount": 15,
       "_nPostCount": 6,
       "_sDescription": "Pixel Gf Full Moveset",
       "_sInitialVisibility": "show",
