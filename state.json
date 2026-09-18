@@ -74,10 +74,6 @@
       "period": "week",
       "rank": 1
     },
-    "718032": {
-      "period": "today",
-      "rank": 2
-    },
     "718128": {
       "period": "today",
       "rank": 1
@@ -146,7 +142,7 @@
           "_sTextHoverColor": "#FD70E1"
         },
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1947708,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a6932ae1e031.jpg",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a6932b7aaec6.jpg",
@@ -648,7 +644,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1835372"
       },
       "_idRow": 716629,
-      "_nLikeCount": 30,
+      "_nLikeCount": 31,
       "_nPostCount": 11,
       "_sDescription": "eaeaea",
       "_sInitialVisibility": "show",
@@ -688,37 +684,6 @@
       "_sName": "VS KYLE: FULL ASS MOD",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/716834"
-    },
-    "718032": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6aaba9c163f93_800.webp",
-          "_sFile220": "sgi_feature_image_6aaba9c163f93_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 2086713,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/68400fde64698.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2086713",
-        "_sName": "LTHS02",
-        "_sProfileUrl": "https://gamebanana.com/members/2086713"
-      },
-      "_idRow": 718032,
-      "_nLikeCount": 3,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Umamusume - Playable Tanuki Silence Suzuka",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/718032"
     },
     "718128": {
       "_aPreviewContent": {
