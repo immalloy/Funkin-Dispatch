@@ -73,10 +73,6 @@
     "719888": {
       "period": "week",
       "rank": 3
-    },
-    "720167": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
@@ -595,8 +591,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69cfb975e567e.png"
       },
       "_idRow": 714051,
-      "_nLikeCount": 273,
-      "_nPostCount": 120,
+      "_nLikeCount": 278,
+      "_nPostCount": 122,
       "_sDescription": "Tricky Mod",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -629,7 +625,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/59f672b5ec2d4.gif"
       },
       "_idRow": 719815,
-      "_nLikeCount": 106,
+      "_nLikeCount": 112,
       "_nPostCount": 20,
       "_sDescription": "We have a confession!",
       "_sInitialVisibility": "show",
@@ -663,45 +659,14 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/687c2b70986be.png"
       },
       "_idRow": 719888,
-      "_nLikeCount": 79,
-      "_nPostCount": 26,
+      "_nLikeCount": 88,
+      "_nPostCount": 23,
       "_sDescription": "GAMES! GAMES!! GAMES!!!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Variety Vault Plus!",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/719888"
-    },
-    "720167": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ab464126e835_800.webp",
-          "_sFile220": "sgi_feature_image_6ab464126e835_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5781284,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a7fb192bb613.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5781284",
-        "_sName": "MatheusDoesMods",
-        "_sProfileUrl": "https://gamebanana.com/members/5781284"
-      },
-      "_idRow": 720167,
-      "_nLikeCount": 6,
-      "_sDescription": "Listen to my voice, and you will find the key",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Tales of Animatronica",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/720167"
     }
   }
 }
