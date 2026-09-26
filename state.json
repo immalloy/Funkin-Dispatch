@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "13462": {
-      "period": "today",
-      "rank": 2
-    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -30,13 +26,13 @@
       "period": "year",
       "rank": 3
     },
-    "664062": {
+    "665295": {
       "period": "6month",
-      "rank": 2
+      "rank": 3
     },
     "674401": {
       "period": "6month",
-      "rank": 3
+      "rank": 2
     },
     "683489": {
       "period": "6month",
@@ -77,47 +73,9 @@
     "719888": {
       "period": "week",
       "rank": 2
-    },
-    "720608": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
-    "13462": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_hFile": 350,
-          "_hFile220": 171,
-          "_sBaseUrl": "https://images.gamebanana.com/static/img/DefaultEmbeddables",
-          "_sFile": "Script.jpg",
-          "_sFile220": "Script_220.jpg"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ScriptCategory/66928706ae42f.png",
-        "_sName": "HScript",
-        "_sProfileUrl": "https://gamebanana.com/scripts/cats/2829"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5424176,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6aaef5229d48d.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/scripts/5424176",
-        "_sName": "PedritoFA",
-        "_sProfileUrl": "https://gamebanana.com/members/5424176",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6aaef54cd8e09.png"
-      },
-      "_idRow": 13462,
-      "_nLikeCount": 3,
-      "_sDescription": "...",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Script",
-      "_sName": "Game Mod Icon Script For Codename Engine",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/scripts/13462"
-    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -315,12 +273,12 @@
       "_sPeriod": "year",
       "_sProfileUrl": "https://gamebanana.com/mods/652786"
     },
-    "664062": {
+    "665295": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_69c69c46c8024_800.webp",
-          "_sFile220": "sgi_feature_image_69c69c46c8024_220.webp"
+          "_sFile": "sgi_feature_image_69cc5b438fd79_800.webp",
+          "_sFile220": "sgi_feature_image_69cc5b438fd79_220.webp"
         }
       },
       "_aRootCategory": {
@@ -331,23 +289,21 @@
       "_aSubmitter": {
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 1995199,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/693eb39d17762.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/693eb4407b34d.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1995199",
-        "_sName": "d4rkwinged",
-        "_sProfileUrl": "https://gamebanana.com/members/1995199",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/693eb7afe06b9.gif"
+        "_idRow": 5166040,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a11115041801.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5166040",
+        "_sName": "PickleNuts",
+        "_sProfileUrl": "https://gamebanana.com/members/5166040"
       },
-      "_idRow": 664062,
-      "_nLikeCount": 315,
-      "_nPostCount": 129,
-      "_sDescription": "It's Nene!",
+      "_idRow": 665295,
+      "_nLikeCount": 265,
+      "_nPostCount": 125,
+      "_sDescription": "If you got what it takes.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "NENEMIXES",
+      "_sName": "Friday Night Funkin': [RESCRIPT]",
       "_sPeriod": "6month",
-      "_sProfileUrl": "https://gamebanana.com/mods/664062"
+      "_sProfileUrl": "https://gamebanana.com/mods/665295"
     },
     "674401": {
       "_aPreviewContent": {
@@ -373,7 +329,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69d28b1db16fd.png"
       },
       "_idRow": 674401,
-      "_nLikeCount": 293,
+      "_nLikeCount": 294,
       "_nPostCount": 182,
       "_sDescription": "Smoke 'Em Out Struggle with a new coat of paint! Or should I say... a cover of smoke? idk how to do puns man",
       "_sInitialVisibility": "show",
@@ -568,7 +524,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 204,
+      "_nLikeCount": 205,
       "_nPostCount": 80,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
@@ -601,7 +557,7 @@
       },
       "_idRow": 712667,
       "_nLikeCount": 79,
-      "_nPostCount": 62,
+      "_nPostCount": 63,
       "_sDescription": "The Spotlight Update",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -633,8 +589,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69cfb975e567e.png"
       },
       "_idRow": 714051,
-      "_nLikeCount": 309,
-      "_nPostCount": 138,
+      "_nLikeCount": 312,
+      "_nPostCount": 141,
       "_sDescription": "Tricky Mod",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -667,7 +623,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/59f672b5ec2d4.gif"
       },
       "_idRow": 719815,
-      "_nLikeCount": 120,
+      "_nLikeCount": 122,
       "_nPostCount": 25,
       "_sDescription": "We have a confession!",
       "_sInitialVisibility": "show",
@@ -701,7 +657,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/687c2b70986be.png"
       },
       "_idRow": 719888,
-      "_nLikeCount": 133,
+      "_nLikeCount": 139,
       "_nPostCount": 40,
       "_sDescription": "GAMES! GAMES!! GAMES!!!",
       "_sInitialVisibility": "show",
@@ -709,40 +665,6 @@
       "_sName": "Variety Vault Plus!",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/719888"
-    },
-    "720608": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ab67f80c6791_800.webp",
-          "_sFile220": "sgi_feature_image_6ab67f80c6791_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 3884632,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6aa93fd5aa865.gif",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6aa942a53e987.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3884632",
-        "_sName": "Matveyka/super players",
-        "_sProfileUrl": "https://gamebanana.com/members/3884632",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6aa9457393a8e.png"
-      },
-      "_idRow": 720608,
-      "_nLikeCount": 10,
-      "_nPostCount": 5,
-      "_sDescription": "You...",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Vs Pasta(One shot) (joke mode)",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/720608"
     }
   }
 }
