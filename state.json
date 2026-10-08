@@ -70,13 +70,9 @@
       "period": "week",
       "rank": 1
     },
-    "724758": {
+    "725130": {
       "period": "week",
       "rank": 3
-    },
-    "725130": {
-      "period": "today",
-      "rank": 1
     }
   },
   "mod_details": {
@@ -236,7 +232,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1944177"
       },
       "_idRow": 650004,
-      "_nLikeCount": 575,
+      "_nLikeCount": 577,
       "_nPostCount": 459,
       "_sDescription": "Don't Blink, ya might miss me!",
       "_sInitialVisibility": "show",
@@ -300,7 +296,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/5166040"
       },
       "_idRow": 665295,
-      "_nLikeCount": 269,
+      "_nLikeCount": 270,
       "_nPostCount": 125,
       "_sDescription": "If you got what it takes.",
       "_sInitialVisibility": "show",
@@ -495,7 +491,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69cfb975e567e.png"
       },
       "_idRow": 714051,
-      "_nLikeCount": 358,
+      "_nLikeCount": 359,
       "_nPostCount": 167,
       "_sDescription": "Tricky Mod",
       "_sInitialVisibility": "show",
@@ -563,7 +559,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/687c2b70986be.png"
       },
       "_idRow": 719888,
-      "_nLikeCount": 179,
+      "_nLikeCount": 181,
       "_nPostCount": 60,
       "_sDescription": "GAMES! GAMES!! GAMES!!!",
       "_sInitialVisibility": "show",
@@ -595,8 +591,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/1814388"
       },
       "_idRow": 723160,
-      "_nLikeCount": 39,
-      "_nPostCount": 13,
+      "_nLikeCount": 42,
+      "_nPostCount": 14,
       "_sDescription": "DO YOU WANT TO PLAY WITH ME...?",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -627,7 +623,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2135680"
       },
       "_idRow": 724276,
-      "_nLikeCount": 65,
+      "_nLikeCount": 69,
       "_nPostCount": 17,
       "_sDescription": "''¡Disfrutando la noche y muchas cosas!''",
       "_sInitialVisibility": "show",
@@ -635,38 +631,6 @@
       "_sName": "FNF: Feat. Bad Bunny",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/724276"
-    },
-    "724758": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ac4f9b2adf79_800.webp",
-          "_sFile220": "sgi_feature_image_6ac4f9b2adf79_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 1890196,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6aafcd240a74f.png",
-        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6aafcdbc53f83.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1890196",
-        "_sName": "Shinto3169",
-        "_sProfileUrl": "https://gamebanana.com/members/1890196"
-      },
-      "_idRow": 724758,
-      "_nLikeCount": 21,
-      "_nPostCount": 51,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "HYPNO'S LULLABY REBOOT DEMO V-Slice Port",
-      "_sPeriod": "week",
-      "_sProfileUrl": "https://gamebanana.com/mods/724758"
     },
     "725130": {
       "_aPreviewContent": {
@@ -693,13 +657,13 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a2bc7d8d87ce.png"
       },
       "_idRow": 725130,
-      "_nLikeCount": 25,
+      "_nLikeCount": 26,
       "_nPostCount": 9,
       "_sDescription": "white girl zombification.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "hyp mix v0.5",
-      "_sPeriod": "today",
+      "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/725130"
     }
   }
