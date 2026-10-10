@@ -74,17 +74,13 @@
       "period": "week",
       "rank": 2
     },
-    "725714": {
-      "period": "today",
-      "rank": 2
-    },
-    "725859": {
+    "725830": {
       "period": "today",
       "rank": 1
     },
-    "725919": {
+    "725859": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
@@ -603,7 +599,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2135680"
       },
       "_idRow": 724276,
-      "_nLikeCount": 78,
+      "_nLikeCount": 80,
       "_nPostCount": 22,
       "_sDescription": "''¡Disfrutando la noche y muchas cosas!''",
       "_sInitialVisibility": "show",
@@ -671,7 +667,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6046724c44bba.png"
       },
       "_idRow": 725611,
-      "_nLikeCount": 36,
+      "_nLikeCount": 37,
       "_nPostCount": 18,
       "_sDescription": "Funny modcharting engine.",
       "_sInitialVisibility": "show",
@@ -680,12 +676,12 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/725611"
     },
-    "725714": {
+    "725830": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ac8a65e67cde_800.webp",
-          "_sFile220": "sgi_feature_image_6ac8a65e67cde_220.webp"
+          "_sFile": "sgi_feature_image_6ac90dce42f2c_800.webp",
+          "_sFile220": "sgi_feature_image_6ac90dce42f2c_220.webp"
         }
       },
       "_aRootCategory": {
@@ -694,22 +690,35 @@
         "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
       },
       "_aSubmitter": {
+        "_aSubjectShaper": {
+          "_sBorderColor": "#4c00ff",
+          "_sBorderHoverColor": "#400057",
+          "_sBorderStyle": "Drop Glow",
+          "_sFont": "Comic Sans",
+          "_sTextColor": "#00ff40",
+          "_sTextHoverColor": "#0400ff"
+        },
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 4110312,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/67d702259aa11.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4110312",
-        "_sName": "CoolJ4334",
-        "_sProfileUrl": "https://gamebanana.com/members/4110312"
+        "_idRow": 2274324,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a330cac6b270.png",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a3d92c4b47d8.png",
+        "_sHovatarUrl": "https://images.gamebanana.com/img/av/6a330cb27ef25.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2274324",
+        "_sName": "Matigol 27",
+        "_sProfileUrl": "https://gamebanana.com/members/2274324",
+        "_sSubjectShaperCssCode": "font-family:'Comic Sans';color:#00ff40;",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a0e8421e8a2a.gif"
       },
-      "_idRow": 725714,
-      "_nLikeCount": 7,
-      "_nPostCount": 4,
+      "_idRow": 725830,
+      "_nLikeCount": 5,
+      "_nPostCount": 2,
+      "_sDescription": "SOY CARAJITO Y VOY A CARAJEAR",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "Everywhere at the End of Funk Modern Port",
+      "_sName": "Carajito Funkin'",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/725714"
+      "_sProfileUrl": "https://gamebanana.com/mods/725830"
     },
     "725859": {
       "_aPreviewContent": {
@@ -734,7 +743,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1795527"
       },
       "_idRow": 725859,
-      "_nLikeCount": 4,
+      "_nLikeCount": 6,
       "_nPostCount": 1,
       "_sDescription": "me when in covers/BETADCIUs Videos",
       "_sInitialVisibility": "show",
@@ -742,38 +751,6 @@
       "_sName": "IcaroLee's Sprites \u0026 Chromatic",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/725859"
-    },
-    "725919": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ac94ead2d6f8_800.webp",
-          "_sFile220": "sgi_feature_image_6ac94ead2d6f8_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
-        "_sName": "Executables",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5988244,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6ac58c11c4947.jpg",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5988244",
-        "_sName": "pray4c0t",
-        "_sProfileUrl": "https://gamebanana.com/members/5988244"
-      },
-      "_idRow": 725919,
-      "_nLikeCount": 3,
-      "_nPostCount": 1,
-      "_sDescription": "Hey Pray4c0t, how bout you make a FNF mod?",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "The Pray4Mod: Vs Pray4c0t",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/725919"
     }
   }
 }
