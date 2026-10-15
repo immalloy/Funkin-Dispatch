@@ -2,10 +2,6 @@
   "version": 1,
   "initialized": true,
   "positions": {
-    "104332": {
-      "period": "today",
-      "rank": 2
-    },
     "166531": {
       "period": "alltime",
       "rank": 3
@@ -66,6 +62,10 @@
       "period": "month",
       "rank": 2
     },
+    "722902": {
+      "period": "today",
+      "rank": 3
+    },
     "725611": {
       "period": "week",
       "rank": 1
@@ -84,42 +84,10 @@
     },
     "727765": {
       "period": "today",
-      "rank": 3
+      "rank": 2
     }
   },
   "mod_details": {
-    "104332": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/wips",
-          "_sFile": "sgi_feature_image_6acef8b87ee09_800.webp",
-          "_sFile220": "sgi_feature_image_6acef8b87ee09_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/WipCategory/69cbe2d482ff9.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/wips/cats/3029"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 6019585,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/wips/6019585",
-        "_sName": "itsrainingsomewhereclose",
-        "_sProfileUrl": "https://gamebanana.com/members/6019585"
-      },
-      "_idRow": 104332,
-      "_nLikeCount": 7,
-      "_nPostCount": 2,
-      "_sDescription": "gamebanana is genuinely featuring anything now huh",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Wip",
-      "_sName": "Super Marvin's Penistastic Day!",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/wips/104332"
-    },
     "166531": {
       "_aPreviewContent": {
         "screenshot": {
@@ -612,6 +580,37 @@
       "_sPeriod": "month",
       "_sProfileUrl": "https://gamebanana.com/mods/719888"
     },
+    "722902": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6abeafc206a36_800.webp",
+          "_sFile220": "sgi_feature_image_6abeafc206a36_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2626289,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6abea88596b3b.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2626289",
+        "_sName": "TriangleGuyy",
+        "_sProfileUrl": "https://gamebanana.com/members/2626289"
+      },
+      "_idRow": 722902,
+      "_nLikeCount": 3,
+      "_sDescription": "The Most Average Mod for Friday Night Funkin'",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Average FNF MOD LMAO",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/722902"
+    },
     "725611": {
       "_aPreviewContent": {
         "screenshot": {
@@ -703,8 +702,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/1892837"
       },
       "_idRow": 726610,
-      "_nLikeCount": 33,
-      "_nPostCount": 11,
+      "_nLikeCount": 34,
+      "_nPostCount": 12,
       "_sDescription": "VS THE LIFEFORM",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -736,7 +735,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/3404641"
       },
       "_idRow": 727720,
-      "_nLikeCount": 6,
+      "_nLikeCount": 7,
       "_nPostCount": 8,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -769,7 +768,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69888b3821492.png"
       },
       "_idRow": 727765,
-      "_nLikeCount": 2,
+      "_nLikeCount": 3,
       "_nPostCount": 2,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
