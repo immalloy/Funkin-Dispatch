@@ -74,10 +74,6 @@
       "period": "week",
       "rank": 3
     },
-    "728175": {
-      "period": "today",
-      "rank": 3
-    },
     "728206": {
       "period": "today",
       "rank": 2
@@ -85,6 +81,10 @@
     "728210": {
       "period": "today",
       "rank": 1
+    },
+    "728372": {
+      "period": "today",
+      "rank": 3
     }
   },
   "mod_details": {
@@ -405,7 +405,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 500,
+      "_nLikeCount": 501,
       "_nPostCount": 392,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -605,7 +605,7 @@
       },
       "_idRow": 726543,
       "_nLikeCount": 24,
-      "_nPostCount": 30,
+      "_nPostCount": 32,
       "_sDescription": "Play as an android!!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -670,7 +670,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/664b7c9a0d47d.png"
       },
       "_idRow": 726831,
-      "_nLikeCount": 19,
+      "_nLikeCount": 20,
       "_nPostCount": 11,
       "_sDescription": "QT Rewired - Hazard Dodge Style",
       "_sInitialVisibility": "show",
@@ -678,36 +678,6 @@
       "_sName": "QT Rewired - Hazard's Dodge Overhaul",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/726831"
-    },
-    "728175": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ad1563794f9e_800.webp",
-          "_sFile220": "sgi_feature_image_6ad1563794f9e_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5365770,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6a8127d68881c.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5365770",
-        "_sName": "-ThatOneDude-",
-        "_sProfileUrl": "https://gamebanana.com/members/5365770"
-      },
-      "_idRow": 728175,
-      "_nLikeCount": 4,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "BLAST5 v-slice port",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/728175"
     },
     "728206": {
       "_aPreviewContent": {
@@ -733,8 +703,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6793b0b1aa04a.png"
       },
       "_idRow": 728206,
-      "_nLikeCount": 21,
-      "_nPostCount": 9,
+      "_nLikeCount": 23,
+      "_nPostCount": 11,
       "_sDescription": "Welcome, unexpected guest.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -765,14 +735,46 @@
         "_sProfileUrl": "https://gamebanana.com/members/2335491"
       },
       "_idRow": 728210,
-      "_nLikeCount": 35,
-      "_nPostCount": 10,
+      "_nLikeCount": 36,
+      "_nPostCount": 14,
       "_sDescription": "LETS CUT TO THE CHASE.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Vs Sonic.exe - Mania!",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/728210"
+    },
+    "728372": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ad2614039f63_800.webp",
+          "_sFile220": "sgi_feature_image_6ad2614039f63_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5129655,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5129655",
+        "_sName": "muauahaha",
+        "_sProfileUrl": "https://gamebanana.com/members/5129655"
+      },
+      "_idRow": 728372,
+      "_nLikeCount": 6,
+      "_nPostCount": 1,
+      "_sDescription": "...yes, the aura farmer",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "VS. THE AURA FARMER",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/728372"
     }
   }
 }
