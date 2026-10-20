@@ -74,17 +74,17 @@
       "period": "week",
       "rank": 1
     },
-    "729569": {
-      "period": "today",
-      "rank": 1
-    },
-    "729628": {
+    "729693": {
       "period": "today",
       "rank": 2
     },
     "729716": {
       "period": "today",
       "rank": 3
+    },
+    "729792": {
+      "period": "today",
+      "rank": 1
     }
   },
   "mod_details": {
@@ -405,7 +405,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 502,
+      "_nLikeCount": 503,
       "_nPostCount": 394,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -604,8 +604,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/2335491"
       },
       "_idRow": 728210,
-      "_nLikeCount": 67,
-      "_nPostCount": 23,
+      "_nLikeCount": 69,
+      "_nPostCount": 24,
       "_sDescription": "LETS CUT TO THE CHASE.",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -688,12 +688,12 @@
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/728872"
     },
-    "729569": {
+    "729693": {
       "_aPreviewContent": {
         "screenshot": {
           "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ad5ab43cb262_800.webp",
-          "_sFile220": "sgi_feature_image_6ad5ab43cb262_220.webp"
+          "_sFile": "sgi_feature_image_6ad64a6dcba10_800.webp",
+          "_sFile220": "sgi_feature_image_6ad64a6dcba10_220.webp"
         }
       },
       "_aRootCategory": {
@@ -704,54 +704,20 @@
       "_aSubmitter": {
         "_bHasRipe": false,
         "_bIsOnline": false,
-        "_idRow": 1834757,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6221822e9c22f.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1834757",
-        "_sName": "DanielGamer Legal DGL",
-        "_sProfileUrl": "https://gamebanana.com/members/1834757",
-        "_sUpicUrl": "https://images.gamebanana.com/img/upic/621ce82e63481.png"
+        "_idRow": 4995641,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6929dc9a11a4a.jpg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/4995641",
+        "_sName": "_JNG_",
+        "_sProfileUrl": "https://gamebanana.com/members/4995641"
       },
-      "_idRow": 729569,
-      "_nLikeCount": 11,
-      "_nPostCount": 3,
-      "_sDescription": "Branch Squad Oneshot",
+      "_idRow": 729693,
+      "_nLikeCount": 6,
+      "_nPostCount": 10,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
-      "_sName": "Branch Squad: Oneshot Mod",
+      "_sName": "Opponent Notes On Player Strumline",
       "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/729569"
-    },
-    "729628": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-          "_sFile": "sgi_feature_image_6ad5fdb9547b0_800.webp",
-          "_sFile220": "sgi_feature_image_6ad5fdb9547b0_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
-        "_sName": "Mod Folders",
-        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5944920,
-        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5944920",
-        "_sName": "Spide3M",
-        "_sProfileUrl": "https://gamebanana.com/members/5944920"
-      },
-      "_idRow": 729628,
-      "_nLikeCount": 10,
-      "_nPostCount": 13,
-      "_sDescription": "Same Funkin’ Energy, Brand New Menus",
-      "_sInitialVisibility": "show",
-      "_sModelName": "Mod",
-      "_sName": "Reloaded Menu + Extras V-Slice",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/mods/729628"
+      "_sProfileUrl": "https://gamebanana.com/mods/729693"
     },
     "729716": {
       "_aPreviewContent": {
@@ -768,7 +734,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 5516401,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6ab76c056d51b.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5516401",
@@ -777,12 +743,45 @@
       },
       "_idRow": 729716,
       "_nLikeCount": 5,
-      "_nPostCount": 2,
+      "_nPostCount": 3,
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Pico Invasion",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/729716"
+    },
+    "729792": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ad6775ea819e_800.webp",
+          "_sFile220": "sgi_feature_image_6ad6775ea819e_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 3253888,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68d00f5c192dc.gif",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/697f49e90339b.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/3253888",
+        "_sName": "JunttiPoika",
+        "_sProfileUrl": "https://gamebanana.com/members/3253888",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a3c6599dc7e8.png"
+      },
+      "_idRow": 729792,
+      "_nLikeCount": 7,
+      "_nPostCount": 8,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Matt's Redemption (V-Slice Port)",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/729792"
     }
   }
 }
