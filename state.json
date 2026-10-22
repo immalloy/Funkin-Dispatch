@@ -6,10 +6,6 @@
       "period": "alltime",
       "rank": 3
     },
-    "24604": {
-      "period": "today",
-      "rank": 2
-    },
     "24606": {
       "period": "today",
       "rank": 1
@@ -81,6 +77,10 @@
     "728872": {
       "period": "week",
       "rank": 2
+    },
+    "730556": {
+      "period": "today",
+      "rank": 2
     }
   },
   "mod_details": {
@@ -117,37 +117,6 @@
       "_sPeriod": "alltime",
       "_sProfileUrl": "https://gamebanana.com/mods/166531"
     },
-    "24604": {
-      "_aPreviewContent": {
-        "screenshot": {
-          "_sBaseUrl": "https://images.gamebanana.com/img/ss/tools",
-          "_sFile": "sgi_feature_image_6ad8b1a05f8f8_800.webp",
-          "_sFile220": "sgi_feature_image_6ad8b1a05f8f8_220.webp"
-        }
-      },
-      "_aRootCategory": {
-        "_sIconUrl": "",
-        "_sName": "Chromatic Scales",
-        "_sProfileUrl": "https://gamebanana.com/tools/cats/1044"
-      },
-      "_aSubmitter": {
-        "_bHasRipe": false,
-        "_bIsOnline": false,
-        "_idRow": 5016561,
-        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6ad76330ab783.png",
-        "_sMoreByUrl": "https://gamebanana.com/members/submissions/tools/5016561",
-        "_sName": "Kaorireal191",
-        "_sProfileUrl": "https://gamebanana.com/members/5016561"
-      },
-      "_idRow": 24604,
-      "_nLikeCount": 2,
-      "_nPostCount": 1,
-      "_sInitialVisibility": "show",
-      "_sModelName": "Tool",
-      "_sName": "Looney Tunes DWP pack",
-      "_sPeriod": "today",
-      "_sProfileUrl": "https://gamebanana.com/tools/24604"
-    },
     "24606": {
       "_aPreviewContent": {
         "screenshot": {
@@ -171,8 +140,8 @@
         "_sProfileUrl": "https://gamebanana.com/members/4995641"
       },
       "_idRow": 24606,
-      "_nLikeCount": 19,
-      "_nPostCount": 3,
+      "_nLikeCount": 25,
+      "_nPostCount": 5,
       "_sInitialVisibility": "show",
       "_sModelName": "Tool",
       "_sName": "[V-Slice] Universal Special Events",
@@ -302,7 +271,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1944177"
       },
       "_idRow": 650004,
-      "_nLikeCount": 585,
+      "_nLikeCount": 586,
       "_nPostCount": 460,
       "_sDescription": "Don't Blink, ya might miss me!",
       "_sInitialVisibility": "show",
@@ -738,13 +707,44 @@
       },
       "_idRow": 728872,
       "_nLikeCount": 72,
-      "_nPostCount": 28,
+      "_nPostCount": 29,
       "_sDescription": "\"Yeah, uh...like that time at the mall.\"",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Richard Takeover [V-SLICE]",
       "_sPeriod": "week",
       "_sProfileUrl": "https://gamebanana.com/mods/728872"
+    },
+    "730556": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ad91c4621eb8_800.webp",
+          "_sFile220": "sgi_feature_image_6ad91c4621eb8_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5142623,
+        "_sAvatarUrl": "https://images.gamebanana.com/static/img/defaults/avatar.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5142623",
+        "_sName": "sassygnarly_",
+        "_sProfileUrl": "https://gamebanana.com/members/5142623"
+      },
+      "_idRow": 730556,
+      "_nLikeCount": 4,
+      "_nPostCount": 7,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "FNF Yuh Remix V Slice Mod",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/730556"
     }
   }
 }
