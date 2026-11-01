@@ -366,6 +366,37 @@
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/tools/24738"
     },
+    "24744": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/tools",
+          "_sFile": "sgi_feature_image_6ae6982176f96_800.webp",
+          "_sFile220": "sgi_feature_image_6ae6982176f96_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "",
+        "_sName": "Chromatic Scales",
+        "_sProfileUrl": "https://gamebanana.com/tools/cats/1044"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5387230,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69dab140cdeb9.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/tools/5387230",
+        "_sName": "Metallicslander",
+        "_sProfileUrl": "https://gamebanana.com/members/5387230"
+      },
+      "_idRow": 24744,
+      "_nLikeCount": 4,
+      "_nPostCount": 1,
+      "_sInitialVisibility": "show",
+      "_sModelName": "Tool",
+      "_sName": "Accurate Super Mario Chromatic Scale",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/tools/24744"
+    },
     "309789": {
       "_aPreviewContent": {
         "screenshot": {
@@ -423,7 +454,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/1785113"
       },
       "_idRow": 44334,
-      "_nLikeCount": 3203,
+      "_nLikeCount": 3202,
       "_nPostCount": 4516,
       "_sDescription": "Add Tricky from the Madness Combat series to FNF!",
       "_sInitialVisibility": "show",
@@ -747,7 +778,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6955858383aa3.png"
       },
       "_idRow": 711896,
-      "_nLikeCount": 223,
+      "_nLikeCount": 224,
       "_nPostCount": 85,
       "_sDescription": "YOUR NAME FOREVER IN GOLD",
       "_sInitialVisibility": "show",
@@ -780,7 +811,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/69cfb975e567e.png"
       },
       "_idRow": 714051,
-      "_nLikeCount": 385,
+      "_nLikeCount": 386,
       "_nPostCount": 183,
       "_sDescription": "Tricky Mod",
       "_sInitialVisibility": "show",
@@ -914,7 +945,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2135680"
       },
       "_idRow": 724276,
-      "_nLikeCount": 115,
+      "_nLikeCount": 116,
       "_nPostCount": 39,
       "_sDescription": "''¡Disfrutando la noche y muchas cosas!''",
       "_sInitialVisibility": "show",
@@ -1897,7 +1928,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 2032375,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/65bcf2d2bda98.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2032375",
@@ -2299,7 +2330,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": true,
+        "_bIsOnline": false,
         "_idRow": 1783246,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/692cb6f9ccfd2.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/692cb6dadad69.png",
@@ -2350,6 +2381,38 @@
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/734292"
     },
+    "734427": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ae593ef2220c_800.webp",
+          "_sFile220": "sgi_feature_image_6ae593ef2220c_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 2493593,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/68e22d186f8d1.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/2493593",
+        "_sName": "Clefaknight/Xen0Heaven",
+        "_sProfileUrl": "https://gamebanana.com/members/2493593"
+      },
+      "_idRow": 734427,
+      "_nLikeCount": 6,
+      "_nPostCount": 2,
+      "_sDescription": "They await to drown you in darkness...",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Friday Night Funkin' Vs Mephiles",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/734427"
+    },
     "734431": {
       "_aPreviewContent": {
         "screenshot": {
@@ -2365,7 +2428,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1859265,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6863323943791.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1859265",
@@ -2374,8 +2437,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6ae5c8c95c91d.png"
       },
       "_idRow": 734431,
-      "_nLikeCount": 61,
-      "_nPostCount": 20,
+      "_nLikeCount": 73,
+      "_nPostCount": 27,
       "_sDescription": "VAMP!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -2449,6 +2512,38 @@
       "_sName": "FNF: Rematch Week",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/734644"
+    },
+    "734692": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ae6389ab3ce2_800.webp",
+          "_sFile220": "sgi_feature_image_6ae6389ab3ce2_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/60382d91c4839.png",
+        "_sName": "Executables",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/3827"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1945594,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/60eb5baeb4256.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1945594",
+        "_sName": "CumiNashe",
+        "_sProfileUrl": "https://gamebanana.com/members/1945594"
+      },
+      "_idRow": 734692,
+      "_nLikeCount": 15,
+      "_nPostCount": 3,
+      "_sDescription": "supah maro",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Love's End Super Famicon Mix [gone!]",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/734692"
     }
   }
 }
