@@ -34,10 +34,6 @@
       "period": "month",
       "rank": 2
     },
-    "719888": {
-      "period": "month",
-      "rank": 1
-    },
     "728785": {
       "period": "week",
       "rank": 3
@@ -131,7 +127,7 @@
       },
       "_idRow": 166531,
       "_nLikeCount": 2635,
-      "_nPostCount": 1141,
+      "_nPostCount": 1142,
       "_sDescription": "Take a hit of this!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -713,7 +709,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2211338"
       },
       "_idRow": 696957,
-      "_nLikeCount": 509,
+      "_nLikeCount": 510,
       "_nPostCount": 396,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
@@ -879,13 +875,13 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/687c2b70986be.png"
       },
       "_idRow": 719888,
-      "_nLikeCount": 195,
+      "_nLikeCount": 198,
       "_nPostCount": 63,
       "_sDescription": "GAMES! GAMES!! GAMES!!!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
       "_sName": "Variety Vault Plus!",
-      "_sPeriod": "month",
+      "_sPeriod": "3month",
       "_sProfileUrl": "https://gamebanana.com/mods/719888"
     },
     "721633": {
@@ -978,7 +974,7 @@
         "_sProfileUrl": "https://gamebanana.com/members/2335491"
       },
       "_idRow": 728210,
-      "_nLikeCount": 79,
+      "_nLikeCount": 80,
       "_nPostCount": 25,
       "_sDescription": "LETS CUT TO THE CHASE.",
       "_sInitialVisibility": "show",
@@ -2468,8 +2464,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6ae5c8c95c91d.png"
       },
       "_idRow": 734431,
-      "_nLikeCount": 111,
-      "_nPostCount": 34,
+      "_nLikeCount": 115,
+      "_nPostCount": 35,
       "_sDescription": "VAMP!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -2673,6 +2669,40 @@
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/735143"
     },
+    "735196": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ae785a2eb9b5_800.webp",
+          "_sFile220": "sgi_feature_image_6ae785a2eb9b5_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1822530,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/69470428a2823.gif",
+        "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/69470329a7648.gif",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1822530",
+        "_sName": "TheOnlyVolume",
+        "_sProfileUrl": "https://gamebanana.com/members/1822530",
+        "_sUpicUrl": "https://images.gamebanana.com/img/upic/606be91d97db2.png"
+      },
+      "_idRow": 735196,
+      "_nLikeCount": 11,
+      "_nPostCount": 2,
+      "_sDescription": "Be ready for the Fiesta!",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "FNF: Día De Muertos Mix",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/735196"
+    },
     "735266": {
       "_aPreviewContent": {
         "screenshot": {
@@ -2735,6 +2765,70 @@
       "_sName": "Funky Horror Mansion",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/mods/735326"
+    },
+    "735437": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ae83b1a68485_800.webp",
+          "_sFile220": "sgi_feature_image_6ae83b1a68485_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 5954338,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6ae4eae179d4a.jpg",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/5954338",
+        "_sName": "OopiestOfDoopies",
+        "_sProfileUrl": "https://gamebanana.com/members/5954338"
+      },
+      "_idRow": 735437,
+      "_nLikeCount": 7,
+      "_nPostCount": 4,
+      "_sDescription": "Play as different characters in story mode",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Story Mode Mixes",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/735437"
+    },
+    "735549": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+          "_sFile": "sgi_feature_image_6ae8aabc0b98a_800.webp",
+          "_sFile220": "sgi_feature_image_6ae8aabc0b98a_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ModCategory/69a336265b2e0.png",
+        "_sName": "Mod Folders",
+        "_sProfileUrl": "https://gamebanana.com/mods/cats/43771"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 1705016,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/61be132e2c717.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1705016",
+        "_sName": "Braulioss",
+        "_sProfileUrl": "https://gamebanana.com/members/1705016"
+      },
+      "_idRow": 735549,
+      "_nLikeCount": 7,
+      "_nPostCount": 3,
+      "_sDescription": "Endless Sunset",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Mod",
+      "_sName": "Sunset Bloom - OneShot Mod",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/mods/735549"
     }
   }
 }
