@@ -343,7 +343,7 @@
           "Moderator"
         ],
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1826250,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/69ac57ccb19a2.png",
         "_sHdAvatarUrl": "https://images.gamebanana.com/img/av/6a9407b751143.jpg",
@@ -353,7 +353,7 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6a9406cc6f282.png"
       },
       "_idRow": 24738,
-      "_nLikeCount": 40,
+      "_nLikeCount": 41,
       "_nPostCount": 6,
       "_sDescription": "It's time to optimize my shit!",
       "_sInitialVisibility": "show",
@@ -485,6 +485,38 @@
       "_sName": "Wario (Charles Martinet) Chromatic Scale.",
       "_sPeriod": "today",
       "_sProfileUrl": "https://gamebanana.com/tools/24797"
+    },
+    "24803": {
+      "_aPreviewContent": {
+        "screenshot": {
+          "_sBaseUrl": "https://images.gamebanana.com/img/ss/tools",
+          "_sFile": "sgi_feature_image_6aeb510451172_800.webp",
+          "_sFile220": "sgi_feature_image_6aeb510451172_220.webp"
+        }
+      },
+      "_aRootCategory": {
+        "_sIconUrl": "https://images.gamebanana.com/img/ico/ToolCategory/69a3749ab4b92.png",
+        "_sName": "Other/Misc",
+        "_sProfileUrl": "https://gamebanana.com/tools/cats/841"
+      },
+      "_aSubmitter": {
+        "_bHasRipe": false,
+        "_bIsOnline": false,
+        "_idRow": 6108957,
+        "_sAvatarUrl": "https://images.gamebanana.com/img/av/6ae9ff33e90ae.png",
+        "_sMoreByUrl": "https://gamebanana.com/members/submissions/tools/6108957",
+        "_sName": "goodkidband",
+        "_sProfileUrl": "https://gamebanana.com/members/6108957"
+      },
+      "_idRow": 24803,
+      "_nLikeCount": 2,
+      "_nPostCount": 2,
+      "_sDescription": "Free, ready-to-chart Good Kid songs for your FNF mods.",
+      "_sInitialVisibility": "show",
+      "_sModelName": "Tool",
+      "_sName": "Good Kid - Friday Night Funkin' - Toolkit",
+      "_sPeriod": "today",
+      "_sProfileUrl": "https://gamebanana.com/tools/24803"
     },
     "309789": {
       "_aPreviewContent": {
@@ -803,7 +835,7 @@
       },
       "_idRow": 696957,
       "_nLikeCount": 510,
-      "_nPostCount": 396,
+      "_nPostCount": 397,
       "_sDescription": "The Poképasta mod returns!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -2495,7 +2527,7 @@
       },
       "_idRow": 734238,
       "_nLikeCount": 67,
-      "_nPostCount": 52,
+      "_nPostCount": 53,
       "_sDescription": "Old Impostor Content at Your Service!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
@@ -2582,7 +2614,7 @@
       },
       "_aSubmitter": {
         "_bHasRipe": false,
-        "_bIsOnline": false,
+        "_bIsOnline": true,
         "_idRow": 1859265,
         "_sAvatarUrl": "https://images.gamebanana.com/img/av/6863323943791.png",
         "_sMoreByUrl": "https://gamebanana.com/members/submissions/mods/1859265",
@@ -2591,8 +2623,8 @@
         "_sUpicUrl": "https://images.gamebanana.com/img/upic/6ae5c8c95c91d.png"
       },
       "_idRow": 734431,
-      "_nLikeCount": 129,
-      "_nPostCount": 40,
+      "_nLikeCount": 131,
+      "_nPostCount": 41,
       "_sDescription": "VAMP!",
       "_sInitialVisibility": "show",
       "_sModelName": "Mod",
